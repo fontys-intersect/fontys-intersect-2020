@@ -1,1 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
+title: Fontys-Intersect
+plugins:
+  - jekyll-include-cache
+
+include: ["_pages"]
