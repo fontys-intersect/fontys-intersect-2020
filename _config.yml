@@ -4,3 +4,5 @@ plugins:
   - jekyll-include-cache
 
 include: ["_pages"]
+
+minimal_mistakes_skin: "neon"
