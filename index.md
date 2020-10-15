@@ -23,6 +23,6 @@ It is expected that the most commonly found exploits will be covered and that se
 
 ### Bibliography 
 
-The bibliography according to this page is(APA style)
+<p class="align-left"> The bibliography according to this page is(APA style)
 - INTERSECT. (2019, 1 november). INTERSECT. https://www.nwo.nl/onderzoek-en-resultaten/onderzoeksprojecten/i/00/33700.html 
-
+</p>
