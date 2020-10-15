@@ -1,9 +1,9 @@
 main:
   - title: "Introduction"
-    url: /introduction/
+    url: /introduction
   - title: "About us"
-    url: /aboutus/
+    url: /aboutus
   - title: "Threats"
-    url: /threats/
+    url: /threats
   - title: "Subject template"
-    url: /subject/
+    url: /subject
