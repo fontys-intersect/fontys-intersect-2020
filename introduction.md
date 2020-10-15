@@ -11,3 +11,4 @@ The guidelines presented are there for individuals or companys to use to secure 
 We have made sure to present our guidelines in a way that everyone can understand and implement on their own as they wish.
 
 ## Structure of the guidelines
+The relevant information regarding each subsection of OIT will have their own page
