@@ -39,6 +39,7 @@ Description:
 | Threats        | Assets Affected   |
 | ------------- |:-------------:|
 | ...      | ... | 
+
 ### Attack 3
 
 Description:
@@ -46,6 +47,7 @@ Description:
 | Threats        | Assets Affected   |
 | ------------- |:-------------:|
 | ...      | ... | 
+
 ### Attack 4
 
 Description:
@@ -53,6 +55,7 @@ Description:
 | Threats        | Assets Affected   |
 | ------------- |:-------------:|
 | ...      | ... | 
+
 ### Attack 5
 
 Description:
