@@ -7,3 +7,5 @@ main:
     url: /threats
   - title: "Subject template"
     url: /subject
+  - title: "Research"
+    url: /research
