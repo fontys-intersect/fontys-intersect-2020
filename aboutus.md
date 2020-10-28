@@ -34,7 +34,7 @@
   </div>
   <div class="column">
     <div class="card">
-      <img src="assets/images/team/placeholder.png" alt="Thomas van Heel" style="width:100%">
+      <img src="assets/images/team/Thomas.jpg" alt="Thomas van Heel" style="width:100%">
       <div class="container">
         <h2>Thomas van Heel</h2>
         <p class="title">Developer</p>

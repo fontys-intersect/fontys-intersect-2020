@@ -7,7 +7,7 @@ This will done by doing research, performing pentest and analysis.
 ## Scope
 The scope of this project is only an industrial system with the associated sensors and an Smartscreen. 
 If there is more time to perform pentests, we will
-be looking at other environments to test. Those environments is not only a device; It will be something that's running on an OS, has communication, connections and a back-end system.
+be looking at other environments to test. That possible environment is not only a device; It will be something that's running on an OS, has communication, connections and a back-end system.
 
 ## Target Audience
 The guidelines presented are there for individuals or companies to use to secure their IOT devices better.
