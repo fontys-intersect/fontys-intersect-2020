@@ -6,7 +6,6 @@
       <div class="container">
         <h2>Merlijn Vermeer</h2>
         <p class="title">Project Leader</p>
-        <p>merlijn.vermeer@student.fontys.nl</p>
         <p><a href="mailto:merlijn.vermeer@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -18,7 +17,6 @@
       <div class="container">
         <h2>Marc van Bommel</h2>
         <p class="title">Developer</p>
-        <p>marc.vanbommel@student.fontys.nl</p>
         <p><a href="mailto:marc.vanbommel@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -30,7 +28,6 @@
       <div class="container">
         <h2>Rick Theeuwes</h2>
         <p class="title">Developer</p>
-        <p>r.theeuwes@student.fontys.nl</p>
         <p><a href="mailto:r.theeuwes@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -41,7 +38,6 @@
       <div class="container">
         <h2>Thomas van Heel</h2>
         <p class="title">Developer</p>
-        <p>t.vanheel@student.fontys.nl</p>
         <p><a href="mailto:t.vanheel@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -54,7 +50,6 @@
       <div class="container">
         <h2>Joël Adams</h2>
         <p class="title">Developer</p>
-        <p>j.adams@student.fontys.nl</p>
         <p><a href="mailto:j.adams@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -65,7 +60,6 @@
       <div class="container">
         <h2>Hristo Slavchev</h2>
         <p class="title">Developer</p>
-        <p>h.slavchev@student.fontys.nl</p>
         <p><a href="mailto:h.slavchev@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -76,7 +70,6 @@
       <div class="container">
         <h2>Anouk Brondijk</h2>
         <p class="title">Developer</p>
-        <p>anouk.brondijk@student.fontys.nl</p>
         <p><a href="mailto:anouk.brondijk@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
