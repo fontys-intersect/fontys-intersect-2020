@@ -2,17 +2,18 @@
 
 ## Objective
 The objective of these guidelines is to show how to secure IOT devices better in the current best possible way.
+This will done by doing research, performing pentest and analysis.
 
 ## Scope
-The scope is only on the programm Airscrubber with the associated sensors and the C-Touch Smartscreen.
-For the Airscrubber, the Kafka server and the docker system are out of scope, since they are not part of the project that needs to be pentested.
-The C-Touch Smartscreen contains a tomcat server that we're not allowed to touch.
-
+The scope of this project is only an industrial system with the associated sensors and an Smartscreen. 
+If there is more time to perform pentests, we will
+be looking at other environments to test. That possible environment is not only a device; It will be something that's running on an OS, has communication, connections and a back-end system.
 
 ## Target Audience
-The guidelines presented are there for individuals or companys to use to secure their IOT devices better.
-We have made sure to present our guidelines in a way that everyone can understand and implement on their own.
+The guidelines presented are there for individuals or companies to use to secure their IOT devices better.
+We have made sure to present our guidelines in a way that everyone can understand and implement them on their own.
 
-## Structure of the guidelines
-The relevant information regarding each subsection of OIT will have their own respective page.
-For the Airscrubber project, the software program and the scanners will contain their own findings page and solutions.
+## Structure of the website
+The structure of the website is listed below:
+- Each subsection of the project has it's own page (Research, Introduction, Threats etc.)
+- For each aspect in the guidelines there will be an explanation page based on the [template](https://fontys-intersect.github.io/subject)
