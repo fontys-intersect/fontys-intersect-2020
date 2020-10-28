@@ -56,7 +56,7 @@
   </div>
   <div class="column">
     <div class="card">
-      <img src="assets/images/team/placeholder.png" alt="Hristo Slavchev" style="width:100%">
+      <img src="assets/images/team/hristo.jpg" alt="Hristo Slavchev" style="width:100%">
       <div class="container">
         <h2>Hristo Slavchev</h2>
         <p class="title">Security engineer</p>
