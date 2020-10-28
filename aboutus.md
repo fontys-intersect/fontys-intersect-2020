@@ -24,7 +24,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="assets/images/team/placeholder.png" alt="Rick Theeuwes" style="width:100%">
+      <img src="assets/images/team/Rick.png" alt="Rick Theeuwes" style="width:100%">
       <div class="container">
         <h2>Rick Theeuwes</h2>
         <p class="title">Developer</p>
