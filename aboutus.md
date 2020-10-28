@@ -53,6 +53,7 @@
       <img src="assets/images/team/placeholder.png" alt="Joel Adams" style="width:100%">
       <div class="container">
         <h2>Joël Adams</h2>
+        <p class="title">Developer</p>
         <p>j.adams@student.fontys.nl</p>
         <p><a href="mailto:j.adams@student.fontys.nl" class="button">Contact</a></p>
       </div>
