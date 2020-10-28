@@ -55,7 +55,6 @@
         <h2>Joël Adams</h2>
         <p>j.adams@student.fontys.nl</p>
         <p><a href="mailto:j.adams@student.fontys.nl" class="button">Contact</a></p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
