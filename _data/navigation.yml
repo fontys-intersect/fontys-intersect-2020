@@ -3,9 +3,7 @@ main:
     url: /introduction
   - title: "About us"
     url: /aboutus
-  - title: "Threats"
-    url: /threats
-  - title: "Subject template"
-    url: /subject
+  - title: "Best Pratice template"
+    url: /bestpractice
   - title: "Research"
     url: /research
