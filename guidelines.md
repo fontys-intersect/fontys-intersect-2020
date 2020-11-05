@@ -2,13 +2,15 @@
 ## Best Practices:
 
 ### Input Validation 
-### Hashed passwords with proper rules
-### Proper error handling
+### Error handling
 ### Regular updates of the software
-### Sufficient privacy protection and storage
 ### Monitoring
-### Secure Data Transfer amd Storage
-### Secure and change the default settings
+### Secure Data Transfer and Storage
+### secret management
+### Authentication and Authorization
+### Scheiding development environment
+### Certificates
+### Protected update process
 
 
 
