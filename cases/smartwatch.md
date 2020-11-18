@@ -11,9 +11,8 @@ The Smartwatch Case, with information regarding the pentest done on the Samsung 
 - [Appendix](#appendix)
 
 ## Subject Explanation
-An in-depth explanation about the subject of the page. An explanation on how the attack can be executed and what the risks are.
-The Smartwatch case is about the reseach we've done on the "Samgsung Gear S3 frontier" Smartwatch.
-The attack we tried was done by first: scanning all the avaible methods we can call withouth authorization of every interface from the watch.
+The Smartwatch case is about the reseach we've done on the "Samgsung Gear S3 frontier" Smartwatch.<br />
+The attack we tried was done by first: scanning all the avaible methods we can call withouth authorization of every interface from the watch.<br />
 Then the attacker could write malware that would abuse the open methods from those interface to hijack Wifi/Bluetooth/Contact info etc.. (depending on the interface)
 
 ## Strengths
@@ -21,19 +20,19 @@ Secure in every way except the out of date OS (Tizen).
 
 ## Vulnerabilities
 The OS was outdated with the version 4.0.0.4.
+Because of this, some interfaces did not require authentication for usage.
 
 ## Best practices
-Update when connecting to phone.
-Set automatic update option on phone.
-If possible, link Samsung account.
+The Smartwatch should be update when given the chance.
+Set automatic update option on phone to ON.
+If the user has one, link Samsung account to the Smart Watch App on the phone.
 
 ## Possible Fixes
-Several possible solutions, their effectiveness, their implementation difficulties and maybe an example.
-To prevent outdated software from being used the user needs to update their Samsung Watch application on their phone, and update their Samsung Smart Watch.
-This is relatifly easy to implement, by simply checking "the automatic update" feature.
+To prevent outdated software from being used the user needs to update their Samsung Watch application on their phone, and update their Samsung Smart Watch.<br />
+This is relatifly easy to implement, by simply checking "the automatic update" feature.<br />
 
 ## Bibliography
-https://nvd.nist.gov/vuln/detail/CVE-2018-16262
+https://nvd.nist.gov/vuln/detail/CVE-2018-16262 <br />
 https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
 
 ## Appendix 
