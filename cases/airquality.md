@@ -9,7 +9,7 @@ An application, combinend with those sensors could fulfills this purpose: it tak
 - [Vulnerabilities](#vulnerabilities)
 - [Best practices](#best-practices)
 - [Possible fixes](#possible-fixes)
-- [Bibliography](#bibliography)
+- [Bibliography](#bibliography-apa)
 - [Appendix](#appendix)
 
 ## Subject Explanation
@@ -18,7 +18,7 @@ Testing was done on a server that was accessible to everyone.  <br /> The tools 
 - Burp Suite
 - Nmap
 - Postman
-- Security headers check
+- [Security headers](https://www.securityheaders.com) check
 
 During the pentest the [research](%TODO) was kept in mind according to known IoT vulnerabilities. 
 
@@ -70,7 +70,7 @@ All of the vulnerabilities in the application can be fixed. To fix those, for ea
 the best practice needs to be followed. After this is done, there should be a lot of tests, to see if the vulnerabilities are
 really fixed.
 
-## Bibliography
+## Bibliography (APA)
 - the document for the research of known vulnerabilities %TODO%
 
 ## Appendix 

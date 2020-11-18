@@ -1,23 +1,32 @@
-# Smart screen
-An in-depth page about the case at hand. In this page, it will be explained how it works and how it could be fixed. 
+# Smartscreen
+Nowadays many companies or just people use IoT technologies; such as smartphone, smart bell or smart screen.
+The smartscreen is a system which is popular in many (big) companies. Those screens store a lot of (sensitive) data, but for sure
+those screens needs to be secure.
 
 ## Table of Contents
 - [Subject Explanation](#subject-explanation)
-- [Strengths](#bibliography)
+- [Strengths](#strengths)
 - [Vulnerabilities](#vulnerabilities)
 - [Best practices](#best-practices)
 - [Possible fixes](#possible-fixes)
-- [Bibliography](#bibliography)
+- [Bibliography](#bibliography-apa)
 - [Appendix](#appendix)
 
 ## Subject Explanation
-An in-depth explanation about the subject of the page. An explanation on how the attack can be executed and what the risks are. 
+According to the [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chain/) the screen and accorded services were tested. The tools that were used are mostly the same tools we use in Kali Linux for other pentests. Among these are:
+- Burp Suite
+- Nmap
+- etc. %TODO%
+
+During the pentest the [research](%TODO) was kept in mind according to known IoT vulnerabilities. 
 
 ## Strengths
 The good aspects in the case/application
 
 ## Vulnerabilities
-The vulnerabilities in the case/application
+- ADB
+- UPnP (if exploit worked)
+- False firmware update
 
 ## Best practices
 The best practises, add refer!
@@ -25,8 +34,8 @@ The best practises, add refer!
 ## Possible Fixes
 Several possible solutions, their effectiveness, their implementation difficulties and maybe an example.
 
-## Bibliography
-All sources used for thie specific subject. 
+## Bibliography (APA)
+- the document for the research of known vulnerabilities %TODO%
 
 ## Appendix 
 Any extra pages about this subject.
