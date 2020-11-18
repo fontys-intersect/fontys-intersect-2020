@@ -1,5 +1,5 @@
 # Smartwatch
-An in-depth page about the case at hand. In this page, it will be explained how it works and how it could be fixed. 
+The Smartwatch Case, with information regarding the pentest done on the Samsung Gear S3 Frontier Smartwatch. (other name: Galaxy Smartwatch)
 
 ## Table of Contents
 - [Subject Explanation](#subject-explanation)
@@ -13,8 +13,8 @@ An in-depth page about the case at hand. In this page, it will be explained how 
 ## Subject Explanation
 An in-depth explanation about the subject of the page. An explanation on how the attack can be executed and what the risks are.
 The Smartwatch case is about the reseach we've done on the "Samgsung Gear S3 frontier" Smartwatch.
-We attack we tried was done by first: scanning all the avaible methods we can call withouth authorization of every interface from the watch.
-Then the 
+The attack we tried was done by first: scanning all the avaible methods we can call withouth authorization of every interface from the watch.
+Then the attacker could write malware that would abuse the open methods from those interface to hijack Wifi/Bluetooth/Contact info etc.. (depending on the interface)
 
 ## Strengths
 Secure in every way except the out of date OS (Tizen).
@@ -23,7 +23,6 @@ Secure in every way except the out of date OS (Tizen).
 The OS was outdated with the version 4.0.0.4.
 
 ## Best practices
-The best practises, add refer!
 Update when connecting to phone.
 Set automatic update option on phone.
 If possible, link Samsung account.
@@ -39,6 +38,3 @@ https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
 
 ## Appendix 
 Any extra pages about this subject.
-
-
-lsdfasjf;oasjdfpos
