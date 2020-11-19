@@ -19,8 +19,9 @@ Then the attacker could write malware that would abuse the open methods from tho
 Secure in every way except the out of date OS (Tizen).
 
 ## Vulnerabilities
-The OS was outdated with the version 4.0.0.4.
-Because of this, some interfaces did not require authentication for usage.
+**Outdated OS**
+The OS was outdated with the version 4.0.0.4, this allowed unauthorized acces to methods from some interfaces on the watch. <br />
+This in turn could be abused by writing malware that could call these methods with specifiek instructions to execute actions that are unwarranted.
 
 ## Best practices
 The Smartwatch should be update when given the chance.
