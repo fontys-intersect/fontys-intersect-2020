@@ -22,7 +22,9 @@ The Samsung Smart Watch was really strong in it strengths, there were no other o
 ## Vulnerabilities
 **Outdated OS**
 The OS was outdated with the version 4.0.0.4, this allowed unauthorized acces to methods from some interfaces on the watch. <br />
-This in turn could be abused by writing malware that could call these methods with specifiek instructions to execute actions that are unwarranted.
+
+**Unauthorised Acces to Interfaces**
+Some interfaces on the watch did not need authorised acces to be able to call their methods, therefore the attack could write malware that calls these methods to receive and change information like: contact info, screenshots of the current screen, change the bluetooth of wifi connection and more, depending on the interface.
 
 ## Best practices
 The Smartwatch should be updated when given the chance to.<br />
