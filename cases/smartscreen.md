@@ -29,7 +29,7 @@ The good aspects in the case/application
 - False firmware update
 
 ## Best practices
-The best practises, add refer!
+
 
 ## Possible Fixes
 Several possible solutions, their effectiveness, their implementation difficulties and maybe an example.
