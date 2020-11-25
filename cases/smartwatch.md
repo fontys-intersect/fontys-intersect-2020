@@ -1,5 +1,6 @@
 # Smartwatch
-The Smartwatch Case, with information regarding the pentest done on the Samsung Gear S3 Frontier Smartwatch. (other name: Galaxy Smartwatch)
+Smartwatches are a common item in the average catalouge of items a persons carries around these days. It has your contact information, can make calls to your friends and even keep track of your steps.
+But these watches are are not just like any ordinary watch, they can be hacked and used to spy on people.
 
 ## Table of Contents
 - [Subject Explanation](#subject-explanation)
@@ -16,7 +17,7 @@ The attack we tried was done by first: scanning all the avaible methods we can c
 Then the attacker could write malware that would abuse the open methods from those interface to hijack Wifi/Bluetooth/Contact info etc.. (depending on the interface)
 
 ## Strengths
-Secure in every way except the out of date OS (Tizen).
+The Samsung Smart Watch was really strong in it strengths, there were no other open attack vectors for us to exploits except the outdated OS it was running.
 
 ## Vulnerabilities
 **Outdated OS**
@@ -24,9 +25,9 @@ The OS was outdated with the version 4.0.0.4, this allowed unauthorized acces to
 This in turn could be abused by writing malware that could call these methods with specifiek instructions to execute actions that are unwarranted.
 
 ## Best practices
-The Smartwatch should be update when given the chance.
-Set automatic update option on phone to ON.
-If the user has one, link Samsung account to the Smart Watch App on the phone.
+The Smartwatch should be updated when given the chance to.<br />
+Always set automatic update option on the phone smartwatch app to "ON".<br />
+And if the user has one, link the Samsung account to the Smart Watch App on the phone.
 
 ## Possible Fixes
 To prevent outdated software from being used the user needs to update their Samsung Watch application on their phone, and update their Samsung Smart Watch.<br />
