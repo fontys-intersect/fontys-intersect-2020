@@ -18,16 +18,20 @@ To start with, users should have User ID's. These User ID's should be case-insen
 - **Passwords**
 This is the most important part. Passwords should meet several requirements to be secure. They should have a minimum length of 8 characters, or they're too weak. They should be allowed to have any characters in them, to make it harder to crack. You should also set an upper limit of characters, to make sure there aren't any Long Password Denial of Service attacks.
 
-Store passwords securely, encrypted in a database. Make sure passwords aren't sent over insecure channels. Rotate passwords over set times; if 
+Store passwords securely, encrypted in a database. Make sure passwords aren't sent over insecure channels. Rotate passwords over set times; if a password is leaked, reset it before too much harm can be done. 
+
+- **Two Factor Authentication**
+Sometimes, just a password isn't enough. 2FA is a good way to authenticate your user. An extra, one-time code will be used to make sure you are really who you say you are. This is also a good way to prevent automated attacks, such as brute forcing. 
 
 ## Flaws
-The biggest flaw left is human error. If someone writes down a password, it doesn't matter how secure it is
+The biggest flaw left is human error. Shoulder surfing is a pretty common way to find a password. If someone writes down a password, it doesn't matter how secure it is - people could steal it. Make sure a password is easy enough to remember, but not too guessable, while still being complex enough. Finding that balance can be hard. 
 
 ## Cases
 The cases that are relevant to this best practice
 
 ## Bibliography
-All sources used for thie specific subject. 
+[OWASP cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+
 
 ## Appendix
 Any extra pages about this subject.
