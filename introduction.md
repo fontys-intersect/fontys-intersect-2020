@@ -16,4 +16,4 @@ We have made sure to present our guidelines in a way that everyone can understan
 ## Structure of the website
 The structure of the website is as followed: the [research](/research) for this project, including research questions, used methods etc. The [cases]() we did
 result in common vulnerabilities, those vulnerabilities could be used to create [best practices](/bestpractices/index). For each case we used the same approach which can be seen
-[here](/pentestApproach).
+[here](/pentestapproach).
