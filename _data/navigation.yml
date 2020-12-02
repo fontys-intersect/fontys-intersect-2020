@@ -9,4 +9,6 @@ main:
     url: /cases/cases
   - title: "Research"
     url: /research
+  - title: "Approach"
+    url: /pentestApproach
 
