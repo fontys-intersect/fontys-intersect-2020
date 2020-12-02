@@ -9,6 +9,7 @@ An in-depth page about Certificates. In this page, it will be explained how it w
 - [Cases](#cases)
 - [Bibliography](#bibliography)
 - [Appendix](#appendix)
+
 ## Explanation 
 A certificate is like a promise that the webserver is who they sey they are. With a certificate, you can be sure that your data is transferred over a secured connection. Trusted certificates are issued by Certificate Authorities, like IdenTrust, DigiCert, Sectigo, and more. A trusted certificate has a public key, and others can rely that the private keys will correspond to the public key. 
 

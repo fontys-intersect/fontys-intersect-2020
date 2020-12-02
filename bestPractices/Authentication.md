@@ -8,6 +8,7 @@ This page will go in-depth on the topic of authentication; what it is, why it's 
 - [Cases](#cases)
 - [Bibliography](#bibliography)
 - [Appendix](#appendix)
+
 ## Explanation 
 If you have an application, you don't want to have people snooping around behind the scene. That's where authentication come in; this process verifies that someone or something is whom it claims to be. Certain users, entities or websites will have permission and power to do what others can't, such as reading or writing into the system. 
 

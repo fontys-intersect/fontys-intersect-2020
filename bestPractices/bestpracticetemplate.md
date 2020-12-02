@@ -1,6 +1,6 @@
 # Best Practices Page
 
-An in-depth page about the flaw at hand. In this page, it will be explained how it works and how it could be fixed. 
+An in-depth page about the flaw at hand. In this page, it will be explained how it works and how it could be implemented. 
 
 ## Table of Contents
 - [Subject Explanation](#subject-explanation)
@@ -8,7 +8,7 @@ An in-depth page about the flaw at hand. In this page, it will be explained how 
 - [Bibliography](#bibliography)
 - [Appendix](#appendix)
 
-## Subject Explanation
+## Explanation
 An in-depth explanation about the subject of the page. An explanation on how the attack can be executed and what the risks are. 
 
 ## Possible Fixes

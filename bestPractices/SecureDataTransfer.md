@@ -11,6 +11,7 @@ An in-depth page about the Best Practice at hand. In this page, it will be expla
   - [Cases](#cases)
   - [Bibliography](#bibliography)
   - [Appendix](#appendix)
+
 ## Explanation 
 All the communication between the IoT devices and the Internet should be encrypted. The SSL/TLS encryption should be used where appropriate. 
 

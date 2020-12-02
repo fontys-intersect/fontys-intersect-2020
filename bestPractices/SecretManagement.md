@@ -11,6 +11,7 @@ An in-depth page about the Best Practice at hand. In this page, it will be expla
   - [Cases](#cases)
   - [Bibliography](#bibliography)
   - [Appendix](#appendix)
+
 ## Explanation 
 All the secrets including the public keys for 
 

@@ -9,6 +9,7 @@ An in-depth page about the Best Practice at hand. In this page, it will be expla
   - [Cases](#cases)
   - [Bibliography](#bibliography)
   - [Appendix](#appendix)
+
 ## Explanation 
 Every IoT device, from a light bulb to smart watch, should be able to be updated. When security issues are found, the devices should be able to be updated, so the found vulnerabilities can be fixed and closed. 
 
