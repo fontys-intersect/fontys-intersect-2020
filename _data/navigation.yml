@@ -8,8 +8,8 @@ main:
   - title: "Approach"
     url: /pentestApproach
   - title: "Cases"
-    url: /cases/cases
+    url: /cases/main
   - title: "Best Pratices"
-    url: /bestPractices/bestpractices
+    url: /bestpractices/main
 
 
