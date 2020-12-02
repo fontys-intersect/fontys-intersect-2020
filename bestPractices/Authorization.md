@@ -28,7 +28,7 @@ It is possible that if a hacker has found a way around the the authorization pro
 [Airqualtiy](cases/airquality#Vulnerabilities)
 
 ## Bibliography
-https://www.cpomagazine.com/tech/best-practices-for-authentication-and-authorization/
+- [https://www.cpomagazine.com/tech/best-practices-for-authentication-and-authorization/](https://www.cpomagazine.com/tech/best-practices-for-authentication-and-authorization/)
 
 ## Appendix
 Any extra pages about this subject.

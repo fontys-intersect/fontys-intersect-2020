@@ -1,9 +1,9 @@
 # Authentication
-This page will go in-depth on the topic of authentication; what it is, why it's important, and how it could be implemented.
+This page will go in-depth on the topic of authentication; what it is, why it's important, and how it could be implemented securely.
 
 ## Table of Contents
 - [Explanation](#explanation)
-- [Uses](#uses)
+- [Usages](#usage)
 - [Flaws](#flaws)
 - [Cases](#cases)
 - [Bibliography](#bibliography)
@@ -11,7 +11,7 @@ This page will go in-depth on the topic of authentication; what it is, why it's 
 ## Explanation 
 If you have an application, you don't want to have people snooping around behind the scene. That's where authentication come in; this process verifies that someone or something is whom it claims to be. Certain users, entities or websites will have permission and power to do what others can't, such as reading or writing into the system. 
 
-## Uses
+## Usage
 - **User ID's**
 To start with, users should have User ID's. These User ID's should be case-insensitive. This is to avoid confusion. ID's should also be unique. You can have your E-mail address as your ID, but you should make sure to apply input validation. If you have a normal application, it's okay to keep the User ID public, but if you have an application that requires secrecy, it'd be better to have them assigned and kept secret. 
 
@@ -27,10 +27,10 @@ Sometimes, just a password isn't enough. 2FA is a good way to authenticate your 
 The biggest flaw left is human error. Shoulder surfing is a pretty common way to find a password. If someone writes down a password, it doesn't matter how secure it is - people could steal it. Make sure a password is easy enough to remember, but not too guessable, while still being complex enough. Finding that balance can be hard. 
 
 ## Cases
-The cases that are relevant to this best practice
+%TODO%
 
 ## Bibliography
-[OWASP cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+- [OWASP cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
 
 ## Appendix
