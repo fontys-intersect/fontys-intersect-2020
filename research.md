@@ -20,3 +20,5 @@ Our main research was based on pentests of real IoT devices. For the sake of pri
 - Industrial air filter
         - This device is has a backend server, a frontend webinterface and some connected sensors.
 
+- Smart watch(es)
+        - This device has a frontend, backend and some built-in sensors.
