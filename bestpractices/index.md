@@ -17,13 +17,13 @@ Some IoT systems have best or bad practices in common, those can be seen [here](
 
 ## List
 All the best practises are listed below:
-- [Authentication](https://fontys-intersect.github.io/bestractices/authentication)
+- [Authentication](https://fontys-intersect.github.io/bestpractices/authentication)
 - [Authorization](https://fontys-intersect.github.io/bestpractices/authorization)
 - [Certificates](https://fontys-intersect.github.io/bestpractices/certificates)
-- [Error handling](https://fontys-intersect.github.io/bestpractices/errorHandling)
-- [Input validation](https://fontys-intersect.github.io/bestpractices/inputVali)
+- [Error handling](https://fontys-intersect.github.io/bestpractices/errorhandling)
+- [Input validation](https://fontys-intersect.github.io/bestpractices/inputvali)
 - [Monitoring](https://fontys-intersect.github.io/bestpractices/monitoring)
-- [Secret Management](https://fontys-intersect.github.io/bestpractices/secretManagement)
-- [Secure data transfer](https://fontys-intersect.github.io/bestpractices/secureDataTransfer)
-- [Split development & prodution](https://fontys-intersect.github.io/bestpractices/splitDevProd)
-- [Version update](https://fontys-intersect.github.io/bestpractices/versionUpdate)
+- [Secret Management](https://fontys-intersect.github.io/bestpractices/secretmanagement)
+- [Secure data transfer](https://fontys-intersect.github.io/bestpractices/securedatatransfer)
+- [Split development & prodution](https://fontys-intersect.github.io/bestpractices/splitdevprod)
+- [Version update](https://fontys-intersect.github.io/bestpractices/versionupdate)
