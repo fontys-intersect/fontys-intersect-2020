@@ -40,35 +40,35 @@ The vulnerabilities in this case are as followed:
 
     If a user is logged in with a valid session, they can access all pages, because the server is not checking if they an administrator or not. They can then create users, locations, and sensors.
 
-- **Bad error handling**<br />
-If If there’s an error, the error messages display very little to no information. This is very inconvenient to both the user and the developer because nobody can see what went wrong.
+- **Bad error handling**
+    If If there’s an error, the error messages display very little to no information. This is very inconvenient to both the user and the developer because nobody can see what went wrong.
 
-- **No hashes for password**<br />
-Passwords are not hashed and are stored as plain text in the database. This is a vulnerability that makes it easy for a hacker to access and reuse the passwords if they gained access to the database.
+- **No hashes for password**
+    Passwords are not hashed and are stored as plain text in the database. This is a vulnerability that makes it easy for a hacker to access and reuse the passwords if they gained access to the database.
 
-- **No Password rules**<br />
-There aren’t any rules for the password when an account is created. This makes it possible to have a password with only one character or even no characters.
+- **No Password rules**
+    There aren’t any rules for the password when an account is created. This makes it possible to have a password with only one character or even no characters.
 
-- **Input filtering** <br />
-An attacker can omit certain parameters when making new users, sensors or locations, making these invalid.
+- **Input filtering**
+    An attacker can omit certain parameters when making new users, sensors or locations, making these invalid.
 
-- **Outdated software**<br />
-There are outdated maven dependencies, which can lead to possible vulnerabilities.
+- **Outdated software**
+    There are outdated maven dependencies, which can lead to possible vulnerabilities.
 
-- **Weak JWT token**<br />
-The JWT token is using a weak and guessable secret key. This makes it possible for the attacker to brute-force or guess it.
+- **Weak JWT token**
+    The JWT token is using a weak and guessable secret key. This makes it possible for the attacker to brute-force or guess it.
 
-- **Insecure Headers**<br />
-The security headers are not configured properly, which makes them vulnerable to attacks like clickjacking.
+- **Insecure Headers**
+    The security headers are not configured properly, which makes them vulnerable to attacks like clickjacking.
 
-- **DOS attack**<br />
-It is possible to make the system crash and unable to restart by sending a string to the Kafka server. This string will cause the server to crash and cause the backend service to stop and crash again on reboot.
+- **DOS attack**
+    It is possible to make the system crash and unable to restart by sending a string to the Kafka server. This string will cause the server to crash and cause the backend service to stop and crash again on reboot.
 
-- **Outside requests**<br />
-The Kafka server is not protected against outside requests. This means anyone can send requests, resulting in the wrong or polluted data.
+- **Outside requests**
+    The Kafka server is not protected against outside requests. This means anyone can send requests, resulting in the wrong or polluted data.
 
-- **Hardcoded Credentials**<br />
-There are hardcoded credentials used in a .xml file. Once an attacker has access to the system, they can use the credentials to pivot to other systems.
+- **Hardcoded Credentials**
+    There are hardcoded credentials used in a .xml file. Once an attacker has access to the system, they can use the credentials to pivot to other systems.
 
 ## Best practices
 
