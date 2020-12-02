@@ -20,7 +20,7 @@ Testing was done on a server that was accessible to everyone.  <br /> The tools 
 - Postman
 - [Security headers](https://www.securityheaders.com) check
 
-During the pentest the [research](%TODO) was kept in mind according to known IoT vulnerabilities. 
+During the pentest the [research](https://fontys-intersect.github.io/research) was kept in mind according to known IoT vulnerabilities. 
 
 ## Strengths
 The application unfortunately didn't have a lot of strengths. Front - and back-end are both weak based on the
@@ -71,7 +71,7 @@ the best practice needs to be followed. After this is done, there should be a lo
 really fixed.
 
 ## Bibliography (APA)
-- the document for the research of known vulnerabilities %TODO%
+- the document for the research of known vulnerabilities %TODO -> add refer%
 
 ## Appendix 
 Any extra pages about this subject.

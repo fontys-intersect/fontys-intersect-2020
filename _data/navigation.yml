@@ -3,8 +3,12 @@ main:
     url: /introduction
   - title: "About us"
     url: /aboutus
-  - title: "Best Pratice template"
-    url: /bestpractice
+  - title: "Best Pratices"
+    url: /bestpractices
+  - title: "Cases"
+    url: /cases/cases
+      title: "Airquality"
+      url: /cases/airquality
   - title: "Research"
     url: /research
 
