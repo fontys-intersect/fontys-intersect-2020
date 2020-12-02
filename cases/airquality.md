@@ -36,8 +36,9 @@ cyber security aspect.
 
 The vulnerabilities in this case are as followed:
 
-- **Broken authentication/authorization**<br />
-If a user is logged in with a valid session, they can access all pages, because the server is not checking if they an administrator or not. They can then create users, locations, and sensors.
+- **Broken authentication/authorization**
+
+    If a user is logged in with a valid session, they can access all pages, because the server is not checking if they an administrator or not. They can then create users, locations, and sensors.
 
 - **Bad error handling**<br />
 If If there’s an error, the error messages display very little to no information. This is very inconvenient to both the user and the developer because nobody can see what went wrong.
