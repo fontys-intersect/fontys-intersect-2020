@@ -17,7 +17,7 @@ The attack we tried was done by first: scanning all the avaible methods we can c
 Then the attacker could write malware that would abuse the open methods from those interface to hijack Wifi/Bluetooth/Contact info etc.. (depending on the interface)
 
 ## Strengths
-The Samsung Smart Watch was really strong in it strengths, there were no other open attack vectors for us to exploits except the outdated OS it was running.
+The Smart Watch was really strong in it strengths, there were no other open attack vectors for us to exploits except the outdated OS it was running.
 
 ## Vulnerabilities
 **Outdated OS**
@@ -36,8 +36,8 @@ To prevent outdated software from being used the user needs to update their Sams
 This is relatifly easy to implement, by simply checking "the automatic update" feature.<br />
 
 ## Bibliography
-https://nvd.nist.gov/vuln/detail/CVE-2018-16262 <br />
-https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+- [https://nvd.nist.gov/vuln/detail/CVE-2018-16262](https://nvd.nist.gov/vuln/detail/CVE-2018-16262)
+- [https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be](https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be)
 
 ## Appendix 
 Any extra pages about this subject.
