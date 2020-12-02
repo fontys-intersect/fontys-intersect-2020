@@ -13,8 +13,7 @@ Incorporating what has proven to work somewhere else forms the basis of any high
 
 ## Cases
 The best practices are based on the cases. Every best practice is referred to at least one of those cases.
-Some IoT systems have best or bad practices in common, those can be seen [here](https://fontys-intersect.github.io/commonIoTFlaws). <br />
-For each best practices the same [template](https://fontys-intersect.github.io/bestPractises/bestpracticetemplate) is used. 
+Some IoT systems have best or bad practices in common, those can be seen [here](https://fontys-intersect.github.io/commonIoTFlaws).
 
 ## List
 All the best practises are listed below:
