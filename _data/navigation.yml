@@ -6,13 +6,9 @@ main:
   - title: "Best Pratices"
     url: /bestPractices/bestpractices
   - title: "Cases"
-    menu:
-      - text: "Airquality"
-        href: /cases/airquality
-      - text: "Smartscreen"
-        href: /cases/smartscreen
-      - text: "Smartwatch"
-        href: /cases/smartwatch
+    url: /cases/cases
   - title: "Research"
     url: /research
+  - title: "Approach"
+    url: /pentestApproach
 
