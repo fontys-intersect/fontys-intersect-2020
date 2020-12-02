@@ -21,7 +21,7 @@ All the best practises are listed below:
 - [Authorization](/bestpractices/authorization)
 - [Certificates](/bestpractices/certificates)
 - [Error handling](/bestpractices/errorhandling)
-- [Input validation](/bestpractices/inputvali)
+- [Input validation](/bestpractices/inputvalidation)
 - [Monitoring](/bestpractices/monitoring)
 - [Secret Management](/bestpractices/secretmanagement)
 - [Secure data transfer](/bestpractices/securedatatransfer)
