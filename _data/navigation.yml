@@ -4,11 +4,15 @@ main:
   - title: "About us"
     url: /aboutus
   - title: "Best Pratices"
-    url: /bestpractices
+    url: /bestPractices/bestpractises
   - title: "Cases"
-    url: /cases/cases
-      title: "Airquality"
-      url: /cases/airquality
+    menu:
+      - text: "Airquality"
+        href: /cases/airquality
+      - text: "Smartscreen"
+        href: /cases/smartscreen
+      - text: "Smartwatch"
+        href: /cases/smartwatch
   - title: "Research"
     url: /research
 
