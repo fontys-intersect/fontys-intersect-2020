@@ -13,7 +13,7 @@
 
   <div class="column">
     <div class="card">
-      <img class="about-img" src="assets/images/team/marc.png" alt="Marc van Bommel" style="width:100%">
+      <img class="about-img" src="assets/images/team/marc.jpg" alt="Marc van Bommel" style="width:100%">
       <div class="container">
         <h2>Marc van Bommel</h2>
         <p class="title">Security engineer</p>
