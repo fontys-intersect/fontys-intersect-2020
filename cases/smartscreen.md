@@ -6,15 +6,13 @@ those screens needs to be secure.
 
 ## Table of Contents
 
-- [Smartscreen](#smartscreen)
-  - [Table of Contents](#table-of-contents)
-  - [Subject Explanation](#subject-explanation)
-  - [Strengths](#strengths)
-  - [Vulnerabilities](#vulnerabilities)
-  - [Best practices](#best-practices)
-  - [Possible Fixes](#possible-fixes)
-  - [Bibliography (APA)](#bibliography-apa)
-  - [Appendix](#appendix)
+- [Subject Explanation](#subject-explanation)
+- [Strengths](#strengths)
+- [Vulnerabilities](#vulnerabilities)
+- [Best practices](#best-practices)
+- [Possible Fixes](#possible-fixes)
+- [Bibliography (APA)](#bibliography-apa)
+- [Appendix](#appendix)
 
 ## Subject Explanation
 
@@ -22,7 +20,8 @@ According to the [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chai
 
 - Burp Suite
 - Nmap
-- CallStranger. %TODO%
+- CallStranger
+- wireshark
 
 During the pentest the [research](/research) was kept in mind according to known IoT vulnerabilities.
 
