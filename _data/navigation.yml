@@ -3,7 +3,16 @@ main:
     url: /introduction
   - title: "About us"
     url: /aboutus
-  - title: "Best Pratice template"
-    url: /bestpractice
+  - title: "Best Pratices"
+    url: /bestPractices/bestpractises
+  - title: "Cases"
+    menu:
+      - text: "Airquality"
+        href: /cases/airquality
+      - text: "Smartscreen"
+        href: /cases/smartscreen
+      - text: "Smartwatch"
+        href: /cases/smartwatch
   - title: "Research"
     url: /research
+

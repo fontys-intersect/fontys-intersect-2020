@@ -1,15 +1,23 @@
 # Guidelines
 ## Best Practices:
 
-### Input Validation 
-### Hashed passwords with proper rules
-### Proper error handling
-### Regular updates of the software
-### Sufficient privacy protection and storage
+### Authentication
+[Authentication](bestPractices/Authentication)
+### Authorization
+[Authorization](bestPractices/Authorization)
+### Certificates
+[Certificates](bestPractices/Certificates)
+### Error Handling
+[Error Handling](bestPractices/Errorhandling)
+### Input Validation
+[Input Validation](bestPractices/inputvali)
 ### Monitoring
-### Secure Data Transfer amd Storage
-### Secure and change the default settings
-
-
-
-
+[Monitoring](bestPractices/Monitoring)
+### Secret Management
+[Secret Management](bestPractices/SecretManagement)
+### Secure Data Transfer and Storage
+[Secure Data](bestPractices/SecureDataTransfer)
+### Split Development and Production Environment
+[Split Development and Production](bestPractices/SplitDevProd)
+### Regular and Restricted Updates
+[Regular and Restricted Updates](bestPractices/RestrictedUpdate)
