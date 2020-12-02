@@ -3,12 +3,13 @@ main:
     url: /introduction
   - title: "About us"
     url: /aboutus
-  - title: "Best Pratices"
-    url: /bestPractices/bestpractices
-  - title: "Cases"
-    url: /cases/cases
   - title: "Research"
     url: /research
   - title: "Approach"
     url: /pentestApproach
+  - title: "Cases"
+    url: /cases/cases
+  - title: "Best Pratices"
+    url: /bestPractices/bestpractices
+
 
