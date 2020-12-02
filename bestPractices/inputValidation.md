@@ -14,8 +14,10 @@ An in-depth page about the Input Validation. In this page, it will be explained 
 Input validation is making sure that what you enter in a text field is what you're supposed to enter. E-mails, for example, should be written as a@example.com, and not just any string. 
 
 ## Uses
+**Taking Advantage**
 Input validation, either at the frontend or the backend, or both, is important. If the program expects a certain value or string, it should get that value or string. If it gets something unexpected, and it's handled incorrectly, the program or website could crash. Hackers might also take adventage of bad input validation, like entering negative values in a money transfer, effectively giving themselves the money. It is also useful to avoid textbox-based attack, like sql-injection and cross site scripting. 
 
+**Checks**
 There are several ways to validate inputs. Minimum and maximum range checks, type converters, and regex are some ways to do so. Some frameworks have it built-in, like jango or Apache. There are also JSON or XML schemas to check inputs against. 
 
 ## Flaws
