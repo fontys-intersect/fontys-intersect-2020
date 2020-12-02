@@ -5,7 +5,7 @@ main:
     url: /aboutus
   - title: "Best Pratices"
     url: /bestPractices/bestpractices
-  - title: "Cases"
+  - title: Cases
     sublinks:
     - title: Airquality
       url: /cases/airquality
