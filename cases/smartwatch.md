@@ -36,8 +36,8 @@ Always set the automatic update option on the phone smartwatch app to "ON", maki
 And if the user has one, link the Samsung account to the SmartWatch App on the phone. This way the user can erase their data, or transfer their data to a new watch safely.
 
 ## Bibliography
-    [https://nvd.nist.gov/vuln/detail/CVE-2018-16262 ](https://nvd.nist.gov/vuln/detail/CVE-2018-16262 )
-    [https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be](https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be)
+ - [https://nvd.nist.gov/vuln/detail/CVE-2018-16262 ](https://nvd.nist.gov/vuln/detail/CVE-2018-16262 )
+ - [https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be](https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be)
 
 ## Appendix 
 Any extra pages about this subject.
