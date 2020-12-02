@@ -25,7 +25,7 @@ The tools that were used are mostly the same tools we use in Kali Linux for othe
 - Postman
 - [Security headers](https://www.securityheaders.com) check
 
-During the pentest the [research](https://fontys-intersect.github.io/research) was kept in mind according to known IoT vulnerabilities.
+During the pentest the [research](/research) was kept in mind according to known IoT vulnerabilities.
 
 ## Strengths
 
