@@ -2,7 +2,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img class="about-img"  src="assets/images/team/amerlijn.png" alt="Merlijn Vermeer" style="width:100%">
+      <img class="about-img"  src="assets/images/team/merlijn.png" alt="Merlijn Vermeer" style="width:100%">
       <div class="container">
         <h2>Merlijn Vermeer</h2>
         <p class="title">Project Leader</p>
@@ -24,7 +24,7 @@
 
   <div class="column">
     <div class="card">
-      <img class="about-img" src="assets/images/team/arick.png" alt="Rick Theeuwes" style="width:100%">
+      <img class="about-img" src="assets/images/team/rick.png" alt="Rick Theeuwes" style="width:100%">
       <div class="container">
         <h2>Rick Theeuwes</h2>
         <p class="title">Ethical Hacker</p>
@@ -34,7 +34,7 @@
   </div>
   <div class="column">
     <div class="card">
-      <img class="about-img" src="assets/images/team/athomas.png" alt="Thomas van Heel" style="width:100%">
+      <img class="about-img" src="assets/images/team/thomas.png" alt="Thomas van Heel" style="width:100%">
       <div class="container">
         <h2>Thomas van Heel</h2>
         <p class="title">Ethical Hacker</p>
