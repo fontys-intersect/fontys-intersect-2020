@@ -1,10 +1,10 @@
 # Error Handling
 
-This page will go in-depth on the topic of error handling; what it is, why it's important, and how it could be implemented.
+This page will go in-depth on the topic of error handling; what it is, why it's important, and how it could be implemented securely.
 
 ## Table of Contents
 - [Explanation](#explanation)
-- [Uses](#uses)
+- [Uses](#usage)
 - [Flaws](#flaws)
 - [Cases](#cases)
 - [Bibliography](#bibliography)
@@ -13,7 +13,7 @@ This page will go in-depth on the topic of error handling; what it is, why it's 
 ## Explanation 
 Error handling is important for running a smooth application. If anything happens, the error will be caught and handled internally, while showing a basic message to the user what might have gone wrong without giving out too much information. If there are any unhandled errors, and the website crashes, the website will stop working or not work as intended. The information that's shown in the error will give hackers a basic idea what language it's written in, what technologies are used, and much more. 
 
-## Uses
+## Usage
 Error handling is used in any code, from applications to backends and other software. Good error handling goes hand in hand with good testing. 
 
 ## Flaws
