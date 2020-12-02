@@ -25,7 +25,7 @@ The tools that were used are mostly the same tools we use in Kali Linux for othe
 - Postman
 - [Security headers](https://www.securityheaders.com) check
 
-During the pentest the [research](https://fontys-intersect.github.io/research) was kept in mind according to known IoT vulnerabilities.
+During the pentest the [research](/research) was kept in mind according to known IoT vulnerabilities.
 
 ## Strengths
 
@@ -70,15 +70,15 @@ The vulnerabilities in this case are as followed:
 - **Hardcoded Credentials**
     There are hardcoded credentials used in a .xml file. Once an attacker has access to the system, they can use the credentials to pivot to other systems.
 
-## Best practices
-
-The best practices, add refer! %TODO%
-
 ## Possible Fixes
 
 All of the vulnerabilities in the application can be fixed. To fix those, for each vulnerability
 the best practice needs to be followed. After this is done, there should be a lot of tests, to see if the vulnerabilities are
 really fixed.
+
+## Best practices
+
+The best practices, add refer! %TODO%
 
 ## Bibliography (APA)
 

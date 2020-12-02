@@ -13,10 +13,10 @@ An in-depth page about the Best Practice at hand. In this page, it will be expla
 ## Explanation 
 Every IoT device, from a light bulb to smart watch, should be able to be updated. When security issues are found, the devices should be able to be updated, so the found vulnerabilities can be fixed and closed. 
 
-The update itself should be done securely so the system should check if it is performing legitimate update to its firmware. This is done by using signing. The software should be signed with certificate and the device should check if the certificte has the right signature on it in order to allow each update.
+The update itself should be done securely so the system should check if it is performing legitimate update to its firmware. This is done by using signing. The software should be signed with certificate and the device should check if the certificate has the right signature on it, in order to allow each update.
 
 ## Flaws
-When a device is supporting update functionality, it expands the attack surface.If the update is not verified and secured by certificate, this can lead to security flaws and corrupting the system.
+When a device is supporting update functionality, it expands the attack surface. If the update is not verified and secured by certificate, this can lead to security flaws and corrupting the system.
 
 ## Cases
 The cases that are relevant to this best practice

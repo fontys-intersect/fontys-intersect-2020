@@ -4,16 +4,16 @@ An in-depth page about Certificates. In this page, it will be explained how it w
 
 ## Table of Contents
 - [Explanation](#explanation)
-- [Uses](#uses)
+- [Uses](#usage)
 - [Flaws](#flaws)
 - [Cases](#cases)
 - [Bibliography](#bibliography)
 - [Appendix](#appendix)
 
 ## Explanation 
-A certificate is like a promise that the webserver is who they sey they are. With a certificate, you can be sure that your data is transferred over a secured connection. Trusted certificates are issued by Certificate Authorities, like IdenTrust, DigiCert, Sectigo, and more. A trusted certificate has a public key, and others can rely that the private keys will correspond to the public key. 
+A certificate is like a promise that the webserver is who they say they are. With a certificate, you can be sure that your data is transferred over a secured connection. Trusted certificates are issued by Certificate Authorities, like IdenTrust, DigiCert, Sectigo, and more. A trusted certificate has a public key and others can rely that the private keys will correspond to the public key. 
 
-## Uses
+## Usage
 **Secure Connection**
 Certificates are used to secure the connection from a webserver to a browser. With this certificate, you can be assured that your connection is encrypted. There are also self-signed certificates; however, those aren't as secure. Self-signed certificates are signed by you instead of by a certificate authority. This means it's not trusted by the browser and may give a pop-up message, like "this website might not be secure."
 
@@ -31,9 +31,9 @@ Realistically, however, it's the self-signed certificate that you need to watch 
 The cases that are relevant to this best practice
 
 ## Bibliography
-[DigiNotar](https://en.wikipedia.org/wiki/DigiNotar)
-[Darknet Diaries, The Weakest Link](https://darknetdiaries.com/episode/3/)
-[Security Certificate](https://www.thesslstore.com/blog/what-is-a-website-security-certificate-and-what-does-it-do-for-your-business/)
+- [DigiNotar](https://en.wikipedia.org/wiki/DigiNotar)
+- [Darknet Diaries, The Weakest Link](https://darknetdiaries.com/episode/3/)
+- [Security Certificate](https://www.thesslstore.com/blog/what-is-a-website-security-certificate-and-what-does-it-do-for-your-business/)
 
 ## Appendix
 Any extra pages about this subject.

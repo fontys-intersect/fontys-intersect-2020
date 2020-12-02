@@ -6,15 +6,13 @@ those screens needs to be secure.
 
 ## Table of Contents
 
-- [Smartscreen](#smartscreen)
-  - [Table of Contents](#table-of-contents)
-  - [Subject Explanation](#subject-explanation)
-  - [Strengths](#strengths)
-  - [Vulnerabilities](#vulnerabilities)
-  - [Best practices](#best-practices)
-  - [Possible Fixes](#possible-fixes)
-  - [Bibliography (APA)](#bibliography-apa)
-  - [Appendix](#appendix)
+- [Subject Explanation](#subject-explanation)
+- [Strengths](#strengths)
+- [Vulnerabilities](#vulnerabilities)
+- [Possible Fixes](#possible-fixes)
+- [Best practices](#best-practices)
+- [Bibliography (APA)](#bibliography-apa)
+- [Appendix](#appendix)
 
 ## Subject Explanation
 
@@ -22,9 +20,10 @@ According to the [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chai
 
 - Burp Suite
 - Nmap
-- CallStranger. %TODO%
+- CallStranger
+- wireshark
 
-During the pentest the [research](https://fontys-intersect.github.io/research) was kept in mind according to known IoT vulnerabilities.
+During the pentest the [research](/research) was kept in mind according to known IoT vulnerabilities.
 
 ## Strengths
 
@@ -39,13 +38,13 @@ The initial version of the smart screen we tested had the android debug bridge(A
 - **False firmware update**
 Because the update server did not implement https it is possible to read the communication between the smart screen and the server. This makes it possible to create a fake update server, combine this with a man in the middle attack and it is possible to make the smart screen pull an update from the fake server. This can either corrupt or add malware to the smart screen.
 
-## Best practices
-
-The best practises, add refer! %TODO%
-
 ## Possible Fixes
 
 Both problems can be fixed quite easily. For the ADB vulnerability just make sure no production version has the adb port open and make sure no one gets the developer version. To secure the server a ssl certificate should be added to the server.
+
+## Best practices
+
+The best practises, add refer! %TODO%
 
 ## Bibliography (APA)
 

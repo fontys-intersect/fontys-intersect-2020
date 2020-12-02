@@ -19,7 +19,7 @@ All the communication between the IoT devices and the Internet should be encrypt
 This require the use of cryptographic algorithms.
 
 ## Flaws
-If an ecryption is not implemented correctly or is missing it leaves the opportunity to the hackers to sniff and listen to the not encrypted traffic.
+If an ecryption is not implemented correctly or is missing, it leaves the opportunity to the hackers to sniff and listen to the not encrypted traffic and perform Man In The Middle attacks.
 
 ## Cases
 The cases that are relevant to this best practice

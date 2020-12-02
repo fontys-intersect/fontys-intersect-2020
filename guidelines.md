@@ -2,22 +2,22 @@
 ## Best Practices:
 
 ### Authentication
-[Authentication](bestPractices/Authentication)
+[Authentication](/bestpractices/authentication)
 ### Authorization
-[Authorization](bestPractices/Authorization)
+[Authorization](/bestpractices/authorization)
 ### Certificates
-[Certificates](bestPractices/Certificates)
+[Certificates](/bestpractices/certificates)
 ### Error Handling
-[Error Handling](bestPractices/Errorhandling)
+[Error Handling](/bestpractices/errorhandling)
 ### Input Validation
-[Input Validation](bestPractices/inputvali)
+[Input Validation](/bestpractices/inputvalidation)
 ### Monitoring
-[Monitoring](bestPractices/Monitoring)
+[Monitoring](/bestpractices/monitoring)
 ### Secret Management
-[Secret Management](bestPractices/SecretManagement)
+[Secret Management](/bestpractices/secretmanagement)
 ### Secure Data Transfer and Storage
-[Secure Data](bestPractices/SecureDataTransfer)
+[Secure Data](/bestpractices/securedatatransfer)
 ### Split Development and Production Environment
-[Split Development and Production](bestPractices/SplitDevProd)
+[Split Development and Production](/bestpractices/splitdevprod)
 ### Regular and Restricted Updates
-[Regular and Restricted Updates](bestPractices/RestrictedUpdate)
+[Regular and Restricted Updates](/bestpractices/restrictedupdate)

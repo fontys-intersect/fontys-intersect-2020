@@ -16,7 +16,7 @@ An in-depth page about the Best Practice at hand. In this page, it will be expla
 A good practice is to create seperate server environments for development, test, staging and production. Every development lifecycle should maintain at least two server environments for production and everything else. This will provide separetion between custumer's systems and those that should not be publicly exposed.
 
 ## Uses
-You can use one account for production and one for
+Uses for this subject and correct implementations. 
 
 ## Flaws
 Possible flaws that may still exist even after implementing this fix correctly.

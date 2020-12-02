@@ -6,10 +6,10 @@ main:
   - title: "Research"
     url: /research
   - title: "Approach"
-    url: /pentestApproach
+    url: /pentestapproach
   - title: "Cases"
-    url: /cases/cases
+    url: /cases
   - title: "Best Pratices"
-    url: /bestPractices/bestpractices
+    url: /bestpractices
 
 
