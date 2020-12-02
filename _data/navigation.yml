@@ -5,14 +5,10 @@ main:
     url: /aboutus
   - title: "Best Pratices"
     url: /bestPractices/bestpractices
-  - title: Cases
-    sublinks:
-    - title: Airquality
-      url: /cases/airquality
-    - title: Smartscreen
-      url: /cases/smartscreen
-    - title: Smartwatch
-      url: /cases/smartwatch
+  - title: "Cases"
+    url: /cases/cases
   - title: "Research"
     url: /research
+  - title: "Approach"
+    url: /pentestApproach
 

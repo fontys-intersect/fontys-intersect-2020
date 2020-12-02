@@ -49,7 +49,7 @@ Both problems can be fixed quite easily. For the ADB vulnerability just make sur
 
 ## Bibliography (APA)
 
-- the document for the research of known vulnerabilities %TODO%
+- the** document for the research of known vulnerabilities %TODO%
 
 ## Appendix
 

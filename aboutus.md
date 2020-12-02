@@ -34,7 +34,7 @@
   </div>
   <div class="column">
     <div class="card">
-      <img class="about-img" src="assets/images/team/Thomas.jpg" alt="Thomas van Heel" style="width:100%">
+      <img class="about-img" src="assets/images/team/Thomas.png" alt="Thomas van Heel" style="width:100%">
       <div class="container">
         <h2>Thomas van Heel</h2>
         <p class="title">Ethical Hacker</p>
@@ -46,7 +46,7 @@
 <div class="row">
     <div class="column">
     <div class="card">
-      <img class="about-img" src="assets/images/team/joel.jpg" alt="Joel Adams" style="width:100%">
+      <img class="about-img" src="assets/images/team/joel.png" alt="Joel Adams" style="width:100%">
       <div class="container">
         <h2>Joël Adams</h2>
         <p class="title">Ethical Hacker</p>
@@ -56,7 +56,7 @@
   </div>
   <div class="column">
     <div class="card">
-      <img class="about-img" src="assets/images/team/hristo.jpg" alt="Hristo Slavchev" style="width:100%">
+      <img class="about-img" src="assets/images/team/hristo.png" alt="Hristo Slavchev" style="width:100%">
       <div class="container">
         <h2>Hristo Slavchev</h2>
         <p class="title">Security engineer</p>
@@ -66,7 +66,7 @@
   </div>
   <div class="column">
     <div class="card">
-      <img class="about-img" src="assets/images/team/anouk.jpg" alt="Anouk Brondijk" style="width:100%">
+      <img class="about-img" src="assets/images/team/anouk.png" alt="Anouk Brondijk" style="width:100%">
       <div class="container">
         <h2>Anouk Brondijk</h2>
         <p class="title">Ethical hacker</p>
