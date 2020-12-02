@@ -3,13 +3,14 @@ Smartwatches are a common item in the average catalog of items a person carries 
 But these watches are not just like any ordinary watch, they can be hacked and used to spy on people.
 
 ## Table of Contents
-    [Subject Explanation](#subject-explanation)
-    [Strengths](#bibliography)
-    [Vulnerabilities](#vulnerabilities)
-    [Best practices](#best-practices)
-    [Possible fixes](#possible-fixes)
-    [Bibliography](#bibliography)
-    [Appendix](#appendix)
+
+- [Subject Explanation](#subject-explanation)
+- [Strengths](#bibliography)
+- [Vulnerabilities](#vulnerabilities)
+- [Best practices](#best-practices)
+- [Possible fixes](#possible-fixes)
+- [Bibliography](#bibliography)
+- [Appendix](#appendix)
 
 ## Case Explanation
 The Smartwatch case is about the research we've done on the "Samsung Gear S3 frontier" Smartwatch.<br />
