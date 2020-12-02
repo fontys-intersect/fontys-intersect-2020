@@ -24,7 +24,7 @@ According to the [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chai
 - Nmap
 - CallStranger. %TODO%
 
-During the pentest the [research](https://fontys-intersect.github.io/research) was kept in mind according to known IoT vulnerabilities.
+During the pentest the [research](/research) was kept in mind according to known IoT vulnerabilities.
 
 ## Strengths
 
