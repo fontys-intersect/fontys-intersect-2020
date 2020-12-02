@@ -3,14 +3,16 @@
 An in-depth page about the Best Practice at hand. In this page, it will be explained how it works and how it could be fixed. 
 
 ## Table of Contents
-- [Explanation](#explanation)
-- [Uses](#uses)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
-- [Appendix](#appendix)
+- [Secret Management](#secret-management)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Uses](#uses)
+  - [Flaws](#flaws)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
+  - [Appendix](#appendix)
 ## Explanation 
-An in-depth explanation about the subject of the page. An explanation on what it is.
+All the secrets including the public keys for 
 
 ## Uses
 Uses for this subject and correct implementations. 

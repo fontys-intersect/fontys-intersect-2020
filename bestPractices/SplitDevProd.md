@@ -3,17 +3,19 @@
 An in-depth page about the Best Practice at hand. In this page, it will be explained how it works and how it could be fixed. 
 
 ## Table of Contents
-- [Explanation](#explanation)
-- [Uses](#uses)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
-- [Appendix](#appendix)
+- [Splict Development and Production Environments](#splict-development-and-production-environments)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Uses](#uses)
+  - [Flaws](#flaws)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
+  - [Appendix](#appendix)
 ## Explanation 
-An in-depth explanation about the subject of the page. An explanation on what it is.
+A good practice is to create seperate server environments for development, test, staging and production. Every development lifecycle should maintain at least two server environments for production and everything else. This will provide separetion between custumer's systems and those that should not be publicly exposed.
 
 ## Uses
-Uses for this subject and correct implementations. 
+You can use one account for production and one for
 
 ## Flaws
 Possible flaws that may still exist even after implementing this fix correctly.
