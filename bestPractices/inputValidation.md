@@ -25,7 +25,7 @@ If the input validation is only in the front-end but not in the backend, hackers
 The cases that are relevant to this best practice
 
 ## Bibliography
-[OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
+- [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
 
 ## Appendix
 Any extra pages about this subject.
