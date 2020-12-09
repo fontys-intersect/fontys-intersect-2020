@@ -5,15 +5,13 @@ The smartscreen is a system which is popular in many (big) companies, because of
 
 ## Table of Contents
 
-- [Smartscreen](#smartscreen)
-  - [Table of Contents](#table-of-contents)
-  - [Subject Explanation](#subject-explanation)
-  - [Strengths](#strengths)
-  - [Vulnerabilities](#vulnerabilities)
-  - [Possible Fixes](#possible-fixes)
-  - [Best practices](#best-practices)
-  - [Bibliography (APA)](#bibliography-apa)
-  - [Appendix](#appendix)
+- [Subject Explanation](#subject-explanation)
+- [Strengths](#strengths)
+- [Vulnerabilities](#vulnerabilities)
+- [Possible Fixes](#possible-fixes)
+- [Best practices](#best-practices)
+- [Bibliography (APA)](#bibliography-apa)
+- [Appendix](#appendix)
 
 ## Subject Explanation
 
