@@ -97,3 +97,8 @@
 .buttonHolder {
     bottom: 0;
 }
+
+.cardHolder {
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
