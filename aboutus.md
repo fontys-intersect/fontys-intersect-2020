@@ -129,7 +129,7 @@
       while(memberCounter < numberOfMembers){
         var height = document.getElementsByClassName("card")[memberCounter].offsetHeight;
         var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
-        document.getElementsByClassName("container")[0].style.height = (height - imgheights) + "px";
+        document.getElementsByClassName("container")[0].style.height = (height - imgheight) + "px";
       }
     }
 
