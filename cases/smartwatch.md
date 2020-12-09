@@ -53,8 +53,8 @@ The Smartwatch should be updated when given the chance to as referred to in the 
 Always set the automatic update option on the phone smartwatch app to "ON", making sure the user does not have to think about whether he has to update his watch or not. And if the user has one, link the Samsung account to the SmartWatch App on the phone. This way the user can erase their data, or transfer their data to a new watch safely.
 
 ## Bibliography
+[https://nvd.nist.gov/vuln/detail/CVE-2018-16262](https://nvd.nist.gov/vuln/detail/CVE-2018-16262 )
 
-[https://nvd.nist.gov/vuln/detail/CVE-2018-16262 ](https://nvd.nist.gov/vuln/detail/CVE-2018-16262 )
 [https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be](https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be)
 
 ## Appendix 
