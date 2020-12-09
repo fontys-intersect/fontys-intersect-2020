@@ -13,7 +13,7 @@ All the best practices are listed below:
 - [Monitoring](/bestpractices/monitoring)
 - [Secret Management](/bestpractices/secretmanagement)
 - [Secure data transfer](/bestpractices/securedatatransfer)
-- [Split development & production](/bestpractices/splitdevprod)
+- [Split development & production environment](/bestpractices/splitdevprod)
 - [Version update](/bestpractices/versionupdate)
 
 ## Cases
