@@ -11,8 +11,8 @@ Our part in this vision will be researching vulnerabilities in existing projects
 
 The Stakeholders for the project are Ctouch, Fontys, INTERSCT. Specifically Teade Punter, Casper Schellekens and Mark Madsen.
 
-In general, the client wanted to have security guidelines for the most common flaws of IoT devices.
-The client demanded that the new documentation that will be used to secure their devices needs to be clear and easy to read.
+In general, the stakeholder wanted to have security guidelines for the most common flaws of IoT devices.
+The stakeholder demanded that the new documentation that will be used to secure their devices needs to be clear and easy to read.
 This is because it will be applied to real-life situations.
 The guidelines cover the most used IoT devices, because of their broad range of use and therefore their great potential for critical exploits.
 It is expected that the most commonly found exploits are covered and that section-specific exploits will be named and/or highlighted for the user's research.
