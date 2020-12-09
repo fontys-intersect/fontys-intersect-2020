@@ -16,15 +16,6 @@
     <meta name="google-site-verification" content="RpFI-zhDoIBoCc-cfqjVsBKHJeQAOXRAEJE3k9NAjDY" />
   </head>
 
-  <style>
-      p {
-          text-align: center;
-      }
-
-      .align-left {
-          text-align: left;
-      }
-  </style>
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
