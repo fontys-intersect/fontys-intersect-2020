@@ -11,20 +11,21 @@ An in-depth page about the Best Practice at hand. In this page, it will be expla
   - [Cases](#cases)
   - [Bibliography](#bibliography)
   - [Appendix](#appendix)
+
 ## Explanation 
 All the secrets including the public keys used for encryption should be stored in a secured place. If those secrets and keys are exposed to the public and aren't properly hidden, it will be easy task for the hackers to break the encryption and the security mechanisms.
 
 ## Uses
-Uses for this subject and correct implementations. 
+Like with passwords, secrets should be kept safe. They should be encrypted and stored in a secure place. They shouldn't be hard-coded into the software.
 
 ## Flaws
-By exposing the keys and the secrets to the public, it is the same as locking a locker and leaving the key next to it. The secrets and the keys should not be hardcoded so it is not possible to reverse engineer them.
+Even if the secrets are stored in a safe place, it's important that they're still accessible somehow. It should be made sure that the connection and data transfer between the storage and the program is also encrypted, or the secret will still come out.
 
 ## Cases
 The cases that are relevant to this best practice
 
 ## Bibliography
-All sources used for thie specific subject. 
+[Secret Management](https://www.cyberark.com/what-is/secrets-management/)
 
 ## Appendix
 Any extra pages about this subject.

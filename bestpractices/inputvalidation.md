@@ -1,6 +1,6 @@
 # Input Validation
 
-An in-depth page about the Input Validation. In this page, it will be explained how it works and how it could be fixed. 
+An in-depth page about the Input Validation. In this page, it will be explained how it works and how it could be implemented. 
 
 ### Table of Contents
 - [Explanation](#explanation)

@@ -1,6 +1,6 @@
 # Authorization
 
-An in-depth page about the Best Practice at hand. In this page, it will be explained how it works and how it could be fixed. 
+An in-depth page about the Best Practice at hand. In this page, it will be explained how it works and how it could be implemented
 
 ## Table of Contents
 - [Explanation](#explanation)
@@ -9,6 +9,7 @@ An in-depth page about the Best Practice at hand. In this page, it will be expla
 - [Cases](#cases)
 - [Bibliography](#bibliography)
 - [Appendix](#appendix)
+
 ## Explanation 
 **Validate Sessions**
 When an entity calls a method the application needs to know if this call is legit in its request. The entity has a session that it uses to validate its request. The backend needs to check if the session, tied to this specific user, has a right to exist or not. If not, terminate the user or deny the request.
