@@ -152,7 +152,7 @@
     });
 
     $(window).resize(function() {
-      setHeight();
+      setButton();
     });
 
 </script>
