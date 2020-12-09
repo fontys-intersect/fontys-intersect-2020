@@ -11,11 +11,10 @@ An in-depth page about Secure Data Transfer and data storage. In this page, it w
 - [Flaws](#flaws)
 - [Cases](#cases)
 - [Bibliography](#bibliography)
-- [Appendix](#appendix)
 
 ## Explanation
 
-Internet traffic can be red or even changed by anyone on the same network, there is very little to solve this on a small scale network. In order to make sure that the sniffed data is not usable, encryption should be used. Encryption comes in many forms, but most traffic (i.e. `http`, `ftp`, `smtp`, etc.) supports `SSL/TLS`. SSL is a powerful a widely used encryption. Its most common use is for webtraffic, however, multiple protocols support it. If for any reason the protocol is unable to use SSL, there are many variants of encryption, such as end-to-end, peer-to-peer and VPN.
+Internet traffic can be red or even changed by anyone on the same network, there is very little to solve this on a small scale network. To make sure that the sniffed data is not usable, encryption should be used. Encryption comes in many forms, but most traffic (i.e. `HTTP`, `FTP`, `SMTP`, etc.) supports `SSL/TLS`. SSL is a powerful widely used encryption. Its most common use is for web traffic, however, multiple protocols support it. If for any reason the protocol is unable to use SSL, there are many variants of encryption, such as end-to-end, peer-to-peer and VPN.
 
 ## Usage
 
@@ -31,11 +30,11 @@ Proper encryption is extremely difficult to break, so it has no real flaws. Howe
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-There was a distinct lack of encryption of any encryption on the airquality project, leaving the system vulnerable.
+There was a distinct lack of encryption of any encryption on the air quality project, leaving the system vulnerable.
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
 
-The smartscreen also lacked encryption where needed, the update system. This allowed us to spoof a malicious update.
+The smart screen also lacked encryption where needed, the update system. This allowed us to spoof a malicious update.
 
 - [Smartwatch](cases/smartwatch#Vulnerabilities)
 
