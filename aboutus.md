@@ -9,7 +9,7 @@
         <h2>Merlijn Vermeer</h2>
         <p class="title">Project Leader</p>
         <p class="quote"></p>
-        <p><a href="mailto:merlijn.vermeer@student.fontys.nl" class="button">Contact</a></p>
+        <p class="buttonHolder"><a href="mailto:merlijn.vermeer@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
   </div>
@@ -21,7 +21,7 @@
         <h2>Marc van Bommel</h2>
         <p class="title">Security engineer</p>
         <p class="quote"></p>
-        <p><a href="mailto:marc.vanbommel@student.fontys.nl" class="button">Contact</a></p>
+        <p class="buttonHolder"><a href="mailto:marc.vanbommel@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
   </div>
@@ -33,7 +33,7 @@
         <h2>Rick Theeuwes</h2>
         <p class="title">Ethical Hacker</p>
         <p class="quote"></p>
-        <p><a href="mailto:r.theeuwes@student.fontys.nl" class="button">Contact</a></p>
+        <p class="buttonHolder"><a href="mailto:r.theeuwes@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
   </div>
@@ -44,7 +44,7 @@
         <h2>Thomas van Heel</h2>
         <p class="title">Ethical Hacker</p>
         <p class="quote"></p>
-        <p><a href="mailto:t.vanheel@student.fontys.nl" class="button">Contact</a></p>
+        <p class="buttonHolder"><a href="mailto:t.vanheel@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
   </div>
@@ -57,7 +57,7 @@
         <h2>Joël Adams</h2>
         <p class="title">Ethical Hacker</p>
         <p class="quote"></p>
-        <p><a href="mailto:j.adams@student.fontys.nl" class="button">Contact</a></p>
+        <p class="buttonHolder"><a href="mailto:j.adams@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
   </div>
@@ -68,7 +68,7 @@
         <h2>Hristo Slavchev</h2>
         <p class="title">Security engineer</p>
         <p class="quote"></p>
-        <p><a href="mailto:h.slavchev@student.fontys.nl" class="button">Contact</a></p>
+        <p class="buttonHolder"><a href="mailto:h.slavchev@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
   </div>
@@ -79,7 +79,7 @@
         <h2>Anouk Brondijk</h2>
         <p class="title">Ethical hacker</p>
         <p class="quote"></p>
-        <p><a href="mailto:anouk.brondijk@student.fontys.nl" class="button">Contact</a></p>
+        <p class="buttonHolder"><a href="mailto:anouk.brondijk@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
   </div>
@@ -127,9 +127,12 @@
       var memberCounter = 0;
       var numberOfMembers = 7;
       while(memberCounter < numberOfMembers){
-        var height = document.getElementsByClassName("card")[memberCounter].offsetHeight;
+        var cards = document.getElementsByClassName("card");
+        var height = cards[memberCounter].offsetHeight;
+        var width = cards[memberCounter].offsetWidth;
         var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
-        document.getElementsByClassName("container")[0].style.height = (height - imgheight) + "px";
+        document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight) + "px";
+        document.getElementsByClassName("buttonHolder")[memberCounter].style.width = width + "px";
       }
     }
 

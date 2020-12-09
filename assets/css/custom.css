@@ -85,10 +85,15 @@
 }
 
 .card .button {
-    margin: 0.50em 0 0.25em 0;
+    margin: 0.50em 0 0 0;
 }
 
 .row {
     display: flex; /* equal height of the children */
     flex-wrap: wrap;
+}
+
+.buttonHolder {
+    position: absolute;
+    bottom: 0;
 }
