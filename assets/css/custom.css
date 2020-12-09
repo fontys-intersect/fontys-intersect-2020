@@ -63,9 +63,7 @@
 }
 
 .stakeholder {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    float: right;
 }
 
 .initial-content {

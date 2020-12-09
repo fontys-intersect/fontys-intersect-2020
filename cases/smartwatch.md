@@ -2,6 +2,8 @@
 Smartwatches are a common item in the average catalog of items a person carries around these days. It has your contact information, can make calls to your friends and even keep track of your steps.
 But these watches are not just like any ordinary watch, they can be hacked and used to spy on people.
 
+![fitbit](./assets/images/fitbit.jpg)
+
 ## Table of Contents
 
 - [Subject Explanation](#subject-explanation)
@@ -16,9 +18,15 @@ But these watches are not just like any ordinary watch, they can be hacked and u
 
 The Smartwatch case is about the research we've done on the "Samsung Gear S3 frontier" Smartwatch.
 
-The attack we tried was done by first: scanning all the available methods we can call without authorization of every interface from the watch.
+We first gathered all the intel we could find on the version the OS was running on, which was Tizen OS 4.0.0.4.
+This version of Tizen was outdated and had a exploit allowing users to call interfaces without correct authorization.
+
+The attack we tried was done by first: scanning all the available methods we can call without authorization of every interface from the watch. The program used here would call every method with random 
+parameters and log the response get. If the response was "InvalidArgs" instead of "AccesDenied", that meant we could abuse the interface with the out of date OS version.
 
 Then the attacker could write malware that would abuse the open methods from those interfaces to hijack Wifi/Bluetooth/Contact info etc.. (depending on the interface)
+
+![smartwatch-diagram](./assets/images/smartwatch-diagram.png)
 
 ## Strengths
 
@@ -48,7 +56,6 @@ Always set the automatic update option on the phone smartwatch app to "ON", maki
 
 [https://nvd.nist.gov/vuln/detail/CVE-2018-16262 ](https://nvd.nist.gov/vuln/detail/CVE-2018-16262 )
 [https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be](https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be)
-
 
 ## Appendix 
 
