@@ -117,7 +117,20 @@
                     counter++;
                 }
             }
+
+            setHeight();
         });
+    }
+
+    function setHeight()
+    {
+      var memberCounter = 0;
+      var numberOfMembers = 7;
+      while(memberCounter < numberOfMembers){
+        var height = document.getElementsByClassName("card")[memberCounter].offsetHeight;
+        var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
+        document.getElementsByClassName("container")[0].style.height = (height - imgheights) + "px";
+      }
     }
 
     $(document).ready(function() {
