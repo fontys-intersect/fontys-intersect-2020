@@ -20,6 +20,9 @@ Certificates are used to secure the connection from a webserver to a browser. Wi
 **Trusted Certificates**
 Trusted certificates are good against man in the middle attacks, for example. Since the connection is encrypted, it's not possible for someone to intercept your data. You can't impersonate a trusted certificate, either, since these certificates come from a trusted authority. 
 
+**Enisa Guideline**
+Enisa has made an in-depth document where it explains the imporance of web certificates and how they should be used. You can read it [here.](assets/pdf/EnisaWebCertificateGuidelines.pdf)
+
 ## Flaws
 **Authority Breach**
 In rare events, a trusted certificate company may be breached, rendering all the trusted certificates issued by said company vulnerable for attacks. An example is from a Dutch certificate authority, DigiNotar. DigiNotar was breached in 2011, and hackers trusted certificates to other hackers. They were sending phishing emailsm pretending to be legit companies like Google. 
