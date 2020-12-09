@@ -122,7 +122,7 @@
         });
     }
 
-    function getHeight()
+    function setHeight()
     {
       var memberCounter = 0;
       var numberOfMembers = 7;
