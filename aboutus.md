@@ -130,9 +130,8 @@
       while(memberCounter < numberOfMembers){
         var height = document.getElementsByClassName("card")[memberCounter].offsetHeight;
         var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
-        document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight - 30) + "px";
+        document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight - 10) + "px";
         memberCounter++;
-
       }
       setButton();
     }
