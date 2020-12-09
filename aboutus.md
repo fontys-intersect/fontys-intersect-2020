@@ -153,7 +153,7 @@
     });
 
     $(window).resize(function() {
-      setButton();
+      setHeight();
     });
 
 </script>
