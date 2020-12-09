@@ -22,6 +22,9 @@ Certificates are used to secure the connection from a web server to a browser. W
 **Trusted Certificates**
 Trusted certificates are the solution against man in the middle attacks. Since the connection is encrypted, it is not possible to intercept the data. You can't impersonate a trusted certificate, either, since these certificates come from a trusted authority. This means that the data cannot be tampered with, since that would make the certificate invalid, making sure that all the data send is valid.
 
+**Enisa Guideline**
+Enisa has made an in-depth document where it explains the imporance of web certificates and how they should be used. You can read it [here.](assets/pdf/EnisaWebCertificateGuidelines.pdf)
+
 ## Flaws
 
 **Authority Breach**

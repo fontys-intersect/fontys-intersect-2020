@@ -22,9 +22,9 @@ In encryption it is important to be consistent. This means that every form of co
 
 ## Flaws
 
-If an encryption is not implemented correctly or is missing, it leaves the opportunity to the hackers to sniff and listen to the unencrypted traffic. Hackers could gather important or personal data and use this data to advance further into the infrastructure.
+If encryption is not implemented correctly or is missing, it leaves the opportunity to the hackers to sniff and listen to the unencrypted traffic. Hackers could gather important or personal data and use this data to advance further into the infrastructure.
 
-Proper encryption is extremely difficult to break, so it has no real flaws, however, there is a lot to do wrong in encryption. First of all, use the latest version of an up to date encryption standard. In software it is always very important to use an up to date framework, no matter how good you are, developing your own encryption is never very secure. Look into the different variants of encryption and make sure that the correct version is used. The wrong version can lead to problems and insecurity. In almost all situations it is best practice to use asymmetric encryption, this means that the key to encrypt is different from the key to decrypt. This way you can make sure that the people that can encrypt data can not decrypt it. This means attackers also cannot decrypt them. Only the intended receiver can read the send data.
+Proper encryption is extremely difficult to break, so it has no real flaws. However, there is a lot to do wrong in encryption. First of all, use the latest version of an up to date encryption standard. In software it is always very important to use an up to date framework, no matter how good you are, developing your own encryption is never very secure. Look into the different variants of encryption and make sure that the correct version is used. The wrong version can lead to problems and insecurity. In almost all situations it is best practice to use asymmetric encryption, this means that the key to encrypt is different from the key to decrypt. This way you can make sure that the people that can encrypt data can not decrypt it. This means attackers also cannot decrypt them. Only the intended receiver can read the send data.
 
 ## Cases
 

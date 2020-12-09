@@ -9,9 +9,10 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 8px;
     background: rgb(74, 74, 74);
-  }
+    height: 100%;
+}
   
-  .about-section {
+.about-section {
     padding: 50px;
     text-align: center;
     background-color: #474e5d;
@@ -73,4 +74,21 @@
 
 .about-img{
     height: 230px;
+}
+
+.card p {
+    margin: 0;
+}
+
+.card h2 {
+    margin: 0.5em 0 0 0;
+}
+
+.card .button {
+    margin: 0.50em 0 0.25em 0;
+}
+
+.row {
+    display: flex; /* equal height of the children */
+    flex-wrap: wrap;
 }

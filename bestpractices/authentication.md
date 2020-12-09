@@ -1,6 +1,6 @@
 # Authentication
 
-This page will go in-depth on the topic of authentication; why it's important, and how it could be implemented securely.
+Authentication is always called in the same breath as Authorization, and sometimes even used interchangably, even though they are two very separate things. Authentication is making sure you are who you are, and authorization is telling people what they can or can't do once they're in the system. In this page, we're going to talk about Authorization.
 
 ## Table of Contents
 
@@ -27,6 +27,9 @@ Store passwords securely, hashed in a database. Hashing is similar to encryption
 - **Two Factor Authentication**
 2FA is a good way to authenticate your user. 2FA is an extra one time code, that is sent to another confirmed device, such as a phone. This makes the login considerably more secure since the login must be confirmed by the user, even if the credentials are leaked.
 
+- **NIST Digital Identity**
+Another source for authentication is the NIST document. NIST stands for the National Institute of Standards in Technology, based in America. In this guideline, authentication is explained even more in-depth. In bibliography will be a link to their authentication page.
+
 **Validate Sessions**
 Besides the passwords, the application also needs to know if the user is logged in. This can be done by using a session, for instance with JWT. This way the application knows who the user is and whether he is allowed something.
 
@@ -41,5 +44,6 @@ If passwords ever do get leaked, don't hide it. This is illegal by GDPR and also
 %TODO%
 
 ## Bibliography
+- [NIST Digital Identity](https://pages.nist.gov/800-63-3/sp800-63b.html)
 
 - [OWASP cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
