@@ -130,8 +130,10 @@
         var cards = document.getElementsByClassName("card");
         var height = cards[memberCounter].offsetHeight;
         var width = cards[memberCounter].offsetWidth;
+        console.log(height + "-" + imgheight);
+
         var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
-        document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight - 40) + "px";
+        document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight - 30) + "px";
         document.getElementsByClassName("buttonHolder")[memberCounter].style.width = (width - 30) + "px";
         document.getElementsByClassName("buttonHolder")[memberCounter].style.position = "absolute";
         memberCounter++;
