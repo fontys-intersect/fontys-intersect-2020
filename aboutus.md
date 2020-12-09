@@ -131,8 +131,8 @@
         var height = cards[memberCounter].offsetHeight;
         var width = cards[memberCounter].offsetWidth;
         var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
-        document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight) + "px";
-        document.getElementsByClassName("buttonHolder")[memberCounter].style.width = width + "px";
+        document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight - 50) + "px";
+        document.getElementsByClassName("buttonHolder")[memberCounter].style.width = (width - 30) + "px";
         memberCounter++;
       }
     }
