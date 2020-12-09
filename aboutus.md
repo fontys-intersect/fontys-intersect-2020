@@ -126,13 +126,14 @@
     {
       var memberCounter = 0;
       var numberOfMembers = 7;
-      while(memberCounter < numberOfMembers - 1){
+      while(memberCounter < numberOfMembers){
         var cards = document.getElementsByClassName("card");
         var height = cards[memberCounter].offsetHeight;
         var width = cards[memberCounter].offsetWidth;
         var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
         document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight) + "px";
         document.getElementsByClassName("buttonHolder")[memberCounter].style.width = width + "px";
+        memberCounter++;
       }
     }
 
