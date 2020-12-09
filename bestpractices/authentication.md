@@ -12,6 +12,8 @@ This page will go in-depth on the topic of authentication; what it is, why it's 
 ## Explanation 
 If you have an application, you don't want to have people snooping around behind the scene. That's where authentication comes in; this process verifies that someone or something is who it claims to be. Certain users, entities or websites will have permission and power to do what others can't, such as reading or writing into the system or accessing certain pages.
 
+![authentication](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MzotS48JIg34q4rBCq1U5dDjqv_4tmu6AQ&usqp=CAU){: css}
+
 ## Usage
 - **User ID's**
 To start with, users should have User ID's. These User ID's should be case-insensitive. This is to avoid confusion. ID's should also be unique. You can have your E-mail address as your ID, but you should make sure to apply input validation, to make sure that the e-mail is structured like a valid e-mail. If you have a normal application, it's okay to keep the User ID public, but if you have an application that requires secrecy, it'd be better to have them assigned and kept secret. 
