@@ -23,4 +23,4 @@ It is expected that the most commonly found exploits are covered and that sectio
 
 The bibliography according to this page is(APA style)
 
-- INTERSECT. (2019, 1 November). INTERSECT. [https://www.nwo.nl/onderzoek-en-resultaten/onderzoeksprojecten/i/00/33700.html]
+- INTERSECT. (2019, 1 November). INTERSECT. [https://www.nwo.nl/onderzoek-en-resultaten/onderzoeksprojecten/i/00/33700.html](https://www.nwo.nl/onderzoek-en-resultaten/onderzoeksprojecten/i/00/33700.html)
