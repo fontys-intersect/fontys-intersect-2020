@@ -20,4 +20,4 @@
 ### Split Development and Production Environment
 [Split Development and Production](/bestpractices/splitdevprod)
 ### Regular and Restricted Updates
-[Regular and Restricted Updates](/bestpractices/restrictedupdate)
+[Regular and Restricted Updates](/bestpractices/versionupdate)
