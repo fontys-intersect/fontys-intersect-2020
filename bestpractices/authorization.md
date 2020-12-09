@@ -1,6 +1,6 @@
 # Authorization
 
-An in-depth page about the Best Practice at hand. In this page, it will be explained how it works and how it could be implemented.
+Authorization is always called in the same breath as Authentication, and sometimes even used interchangably, even though they are two very separate things. Authentication is making sure you are who you are, and authorization is telling people what they can or can't do once they're in the system. In this page, we're going to talk about Authorization.
 
 ## Table of Contents
 - [Explanation](#explanation)
@@ -12,15 +12,16 @@ An in-depth page about the Best Practice at hand. In this page, it will be expla
 
 ## Explanation 
 **Validate Sessions**
+ 
 When an entity calls a method, the application needs to know if this call is legit in its request. The entity has a session that it uses to validate its request. The backend needs to check if the session, tied to this specific user, has a right to exist or not. If not, terminate the user or deny the request.
 
 **Validate user Role & permissions**
 In the entity session, there's usualy information stored that the backend can use to identify the entity and the permissions it has. When the entity calls a method the user role is given as a parameter to the backend, it is then compared to the permissions certain users have to see if this current user has the permission to execute the command it requests.
 
 ## Uses
-Authorization needs to be properly implemented. If the wrong entity has access to methods he has to business using, it could spell a lot of trouble.
+Authorization needs to be properly implemented. If the wrong entity has access to methods he has to business using, it could spell a lot of trouble. The correct implementation should be to validate the session given by the entity when a call is made to make sure the entity has the right to be able to make a call, and the permissions of that entity need to be checked to make sure he has the right to call the specified method.
 
-The correct implementation should be to validate the session given by the entity when a call is made to make sure the entity has the right to be able to make a call, and the permissions of that entity need to be checked to make sure he has the right to call the specified method.
+If you want to know more about authentication in IoT, [Cloud Security Alliance](https://downloads.cloudsecurityalliance.org/assets/research/internet-of-things/identity-and-access-management-for-the-iot.pdf) has created a more in-depth guideline to oversee identity and access management.
 
 ## Flaws
 It is possible that, if a hacker has found a way around the the authorization process, this implementation would be useless. 

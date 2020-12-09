@@ -1,5 +1,6 @@
 # Authentication
-This page will go in-depth on the topic of authentication; what it is, why it's important, and how it could be implemented securely.
+
+Authentication is always called in the same breath as Authorization, and sometimes even used interchangably, even though they are two very separate things. Authentication is making sure you are who you are, and authorization is telling people what they can or can't do once they're in the system. In this page, we're going to talk about Authorization.
 
 ## Table of Contents
 - [Explanation](#explanation)
