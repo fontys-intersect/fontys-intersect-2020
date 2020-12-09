@@ -126,7 +126,7 @@
     {
       var memberCounter = 0;
       var numberOfMembers = 7;
-      while(memberCounter < numberOfMembers){
+      while(memberCounter < numberOfMembers - 1){
         var cards = document.getElementsByClassName("card");
         var height = cards[memberCounter].offsetHeight;
         var width = cards[memberCounter].offsetWidth;
