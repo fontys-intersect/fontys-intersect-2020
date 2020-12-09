@@ -6,13 +6,15 @@ The smartscreen is a system which is popular in many (big) companies, because of
 ## Table of Contents
 
 
-- [Subject Explanation](#subject-explanation)
-- [Strengths](#strengths)
-- [Vulnerabilities](#vulnerabilities)
-- [Possible Fixes](#possible-fixes)
-- [Best practices](#best-practices)
-- [Bibliography (APA)](#bibliography-apa)
-- [Appendix](#appendix)
+- [Smartscreen](#smartscreen)
+  - [Table of Contents](#table-of-contents)
+  - [Subject Explanation](#subject-explanation)
+  - [Strengths](#strengths)
+  - [Vulnerabilities](#vulnerabilities)
+  - [Possible Fixes](#possible-fixes)
+  - [Best practices](#best-practices)
+  - [Bibliography (APA)](#bibliography-apa)
+  - [Appendix](#appendix)
 
 ## Subject Explanation
 
@@ -43,7 +45,7 @@ The initial version of the smart screen we tested had the android debug bridge(A
 - **False firmware update**
 Because the update server did not implement HTTPS it is possible to read the communication between the smart screen and the server. This makes it possible to create a fake update server, combine this with a man in the middle attack and it is possible to make the smart screen pull an update from the fake server. This can either corrupt or add malware to the smart screen.
 
-![update requests](../assets/images/fake_server.png)){: }
+![update requests](../assets/images/fake_server.png){: }
 
 ## Possible Fixes
 
