@@ -89,7 +89,7 @@
 
     function generateRandomPosts()
     {
-        $.getJSON("/search.json", function(data) {
+        $.getJSON("/assets/json/search.json", function(data) {
             console.log("[search.json loaded for random posts]");
 
             var postsCount = data.length;
