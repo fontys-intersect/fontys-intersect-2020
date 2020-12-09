@@ -9,9 +9,10 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 8px;
     background: rgb(74, 74, 74);
-  }
+    height: 100%;
+}
   
-  .about-section {
+.about-section {
     padding: 50px;
     text-align: center;
     background-color: #474e5d;
@@ -89,8 +90,5 @@
 
 .row {
     display: flex; /* equal height of the children */
-}
-  
-.column {
-    flex: 1; /* additionally, equal width */
+    flex-wrap: wrap;
 }
