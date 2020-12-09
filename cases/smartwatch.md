@@ -2,7 +2,7 @@
 Smartwatches are a common item in the average catalog of items a person carries around these days. It has your contact information, can make calls to your friends and even keep track of your steps.
 But these watches are not just like any ordinary watch, they can be hacked and used to spy on people.
 
-![fitbit](../assets/images/fitbit.jpg)
+![fitbit](../assets/images/samsungwatch.jpg)
 
 ## Table of Contents
 
