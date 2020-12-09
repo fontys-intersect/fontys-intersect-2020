@@ -5,7 +5,6 @@ The smartscreen is a system which is popular in many (big) companies, because of
 
 ## Table of Contents
 
-
 - [Smartscreen](#smartscreen)
   - [Table of Contents](#table-of-contents)
   - [Subject Explanation](#subject-explanation)
@@ -18,11 +17,11 @@ The smartscreen is a system which is popular in many (big) companies, because of
 
 ## Subject Explanation
 
- For the pentest, a test network was created and the screen was connected  to the router with an ethernet cable. The pentesters had full network access and control. Physical  access to the smartschreen was also granted to the pentesters.
+ For the pentest, a test network was created and the screens where connected to the router with an ethernet cable. The pentesters had full network access and control. Physical  access to the smartschreen was also granted to the pentesters. One of the screens had an android version as operating system while the other had a custom operating system.
 
  ![network sketch](../assets/images/networksketch/smart-screen.png){: }
 
-According to the [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chain/) the screens and accorded services were tested. The tools that were used are mostly the same tools we use in Kali Linux for other pentests. Among these are:
+According to the [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chain/) the screens and accorded services were tested. The pentests started the same way and became slightly different based on their individual findings. The tools that were used are mostly the same tools we use in Kali Linux for other pentests. Among these are:
 
 - Burp Suite
 - Nmap
