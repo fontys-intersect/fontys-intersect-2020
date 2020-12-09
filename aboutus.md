@@ -1,3 +1,5 @@
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
 <h2 style="text-align:center">Our Team</h2>
 <div class="row">
   <div class="column">
@@ -6,6 +8,7 @@
       <div class="container">
         <h2>Merlijn Vermeer</h2>
         <p class="title">Project Leader</p>
+        <p class="quote"></p>
         <p><a href="mailto:merlijn.vermeer@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -17,6 +20,7 @@
       <div class="container">
         <h2>Marc van Bommel</h2>
         <p class="title">Security engineer</p>
+        <p class="quote"></p>
         <p><a href="mailto:marc.vanbommel@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -28,6 +32,7 @@
       <div class="container">
         <h2>Rick Theeuwes</h2>
         <p class="title">Ethical Hacker</p>
+        <p class="quote"></p>
         <p><a href="mailto:r.theeuwes@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -38,6 +43,7 @@
       <div class="container">
         <h2>Thomas van Heel</h2>
         <p class="title">Ethical Hacker</p>
+        <p class="quote"></p>
         <p><a href="mailto:t.vanheel@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -50,6 +56,7 @@
       <div class="container">
         <h2>Joël Adams</h2>
         <p class="title">Ethical Hacker</p>
+        <p class="quote"></p>
         <p><a href="mailto:j.adams@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -60,6 +67,7 @@
       <div class="container">
         <h2>Hristo Slavchev</h2>
         <p class="title">Security engineer</p>
+        <p class="quote"></p>
         <p><a href="mailto:h.slavchev@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -70,8 +78,50 @@
       <div class="container">
         <h2>Anouk Brondijk</h2>
         <p class="title">Ethical hacker</p>
+        <p class="quote"></p>
         <p><a href="mailto:anouk.brondijk@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
   </div>
 </div>
+
+
+<script type="text/javascript">
+
+    function generateRandomQuotes()
+    {
+        $.getJSON("/assets/json/search.json", function(data) {
+            console.log("[search.json loaded for random quotes]");
+
+            var quotesCount = data.length;
+            var quotes = data;
+
+            var randomIndexUsed = [];
+            var counter = 0;
+            var numberOfQuotes = 7;
+
+            var divRandomQuotes = $(".quote");
+
+            while (counter < numberOfQuotes)
+            {
+                var randomIndex = Math.floor(Math.random() * quotesCount);
+
+                if (randomIndexUsed.indexOf(randomIndex) == "-1")
+                {
+                    var quoteText = quotes[randomIndex].text;
+
+                    divRandomQuotes[counter].append(quoteText);
+
+                    randomIndexUsed.push(randomIndex);
+
+                    counter++;
+                }
+            }
+        });
+    }
+
+    $(document).ready(function() {
+        generateRandomQuotes();
+    });
+
+</script>

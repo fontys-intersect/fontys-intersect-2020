@@ -18,7 +18,7 @@ Our main research was based on pentests of real IoT devices. For the sake of pri
         - This is a smart board running android, mainly used in schools and board rooms. This product is also used in practice.
 
 - Industrial air filter
-        - This device is has a backend server, a frontend webinterface and some connected sensors.
+        - This project has some connected sensors which send data to a backend API and a web dashboard to view and manage all the data.
 
 - Smart watch(es)
         - This device has a frontend, backend and some built-in sensors.
