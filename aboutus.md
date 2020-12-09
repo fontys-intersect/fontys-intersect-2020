@@ -6,6 +6,7 @@
       <div class="container">
         <h2>Merlijn Vermeer</h2>
         <p class="title">Project Leader</p>
+        <p class="quote"></p>
         <p><a href="mailto:merlijn.vermeer@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -17,6 +18,7 @@
       <div class="container">
         <h2>Marc van Bommel</h2>
         <p class="title">Security engineer</p>
+        <p class="quote"></p>
         <p><a href="mailto:marc.vanbommel@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -28,6 +30,7 @@
       <div class="container">
         <h2>Rick Theeuwes</h2>
         <p class="title">Ethical Hacker</p>
+        <p class="quote"></p>
         <p><a href="mailto:r.theeuwes@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -50,6 +53,7 @@
       <div class="container">
         <h2>Joël Adams</h2>
         <p class="title">Ethical Hacker</p>
+        <p class="quote"></p>
         <p><a href="mailto:j.adams@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -60,6 +64,7 @@
       <div class="container">
         <h2>Hristo Slavchev</h2>
         <p class="title">Security engineer</p>
+        <p class="quote"></p>
         <p><a href="mailto:h.slavchev@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -70,8 +75,51 @@
       <div class="container">
         <h2>Anouk Brondijk</h2>
         <p class="title">Ethical hacker</p>
+        <p class="quote"></p>
         <p><a href="mailto:anouk.brondijk@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
   </div>
 </div>
+
+
+<script type="text/javascript">
+
+    function generateRandomPosts()
+    {
+        $.getJSON("/search.json", function(data) {
+            console.log("[search.json loaded for random posts]");
+
+            var postsCount = data.length;
+            var posts = data;
+
+            var randomIndexUsed = [];
+            var counter = 0;
+            var numberOfPosts = 7;
+
+            var divRandomPosts = $(".quote");
+
+            while (counter < numberOfPosts)
+            {
+                var randomIndex = Math.floor(Math.random() * postsCount);
+
+                if (randomIndexUsed.indexOf(randomIndex) == "-1")
+                {
+                    var postAuthor = posts[randomIndex].author;
+                    var postText = posts[randomIndex].text;
+
+                    divRandomPosts.append(postText + " - " + postAuthor);
+
+                    randomIndexUsed.push(randomIndex);
+
+                    counter++;
+                }
+            }
+        });
+    }
+
+    $(document).ready(function() {
+        generateRandomPosts();
+    });
+
+</script>
