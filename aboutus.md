@@ -133,6 +133,7 @@
         var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
         document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight - 50) + "px";
         document.getElementsByClassName("buttonHolder")[memberCounter].style.width = (width - 30) + "px";
+        document.getElementsByClassName("buttonHolder")[memberCounter].style.position = "absolute";
         memberCounter++;
       }
     }
