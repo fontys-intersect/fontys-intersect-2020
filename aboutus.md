@@ -128,11 +128,20 @@
       var memberCounter = 0;
       var numberOfMembers = 7;
       while(memberCounter < numberOfMembers){
-        var cards = document.getElementsByClassName("card");
-        var height = cards[memberCounter].offsetHeight;
-        var width = cards[memberCounter].offsetWidth;
+        var height = document.getElementsByClassName("card")[memberCounter].offsetHeight;
         var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
         document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight - 30) + "px";
+        memberCounter++;
+
+      }
+      setButton();
+    }
+
+    function setButton(){
+      var memberCounter = 0;
+      var numberOfMembers = 7;
+      while(memberCounter < numberOfMembers){
+        var width = document.getElementsByClassName("card")[memberCounter].offsetWidth;
         document.getElementsByClassName("buttonHolder")[memberCounter].style.width = (width - 30) + "px";
         document.getElementsByClassName("buttonHolder")[memberCounter].style.position = "absolute";
         memberCounter++;
@@ -141,6 +150,10 @@
 
     $(document).ready(function() {
         generateRandomQuotes();
+    });
+
+    $(window).resize(function() {
+      setButton();
     });
 
 </script>
