@@ -74,3 +74,23 @@
 .about-img{
     height: 230px;
 }
+
+.card p {
+    margin: 0;
+}
+
+.card h2 {
+    margin: 0.5em 0;
+}
+
+.card .button {
+    padding: 1.25em;
+}
+
+.row {
+    display: flex; /* equal height of the children */
+}
+  
+.column {
+    flex: 1; /* additionally, equal width */
+}
