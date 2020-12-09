@@ -43,6 +43,7 @@
       <div class="container">
         <h2>Thomas van Heel</h2>
         <p class="title">Ethical Hacker</p>
+        <p class="quote"></p>
         <p><a href="mailto:t.vanheel@student.fontys.nl" class="button">Contact</a></p>
       </div>
     </div>
@@ -110,7 +111,7 @@
                     var postAuthor = posts[randomIndex].author;
                     var postText = posts[randomIndex].text;
 
-                    divRandomPosts.append(postText + " - " + postAuthor);
+                    divRandomPosts[counter].append(postText + " - " + postAuthor);
 
                     randomIndexUsed.push(randomIndex);
 
