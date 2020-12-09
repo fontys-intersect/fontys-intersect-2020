@@ -88,30 +88,29 @@
 
 <script type="text/javascript">
 
-    function generateRandomPosts()
+    function generateRandomQuotes()
     {
         $.getJSON("/assets/json/search.json", function(data) {
-            console.log("[search.json loaded for random posts]");
+            console.log("[search.json loaded for random quotes]");
 
-            var postsCount = data.length;
-            var posts = data;
+            var quotesCount = data.length;
+            var quotes = data;
 
             var randomIndexUsed = [];
             var counter = 0;
-            var numberOfPosts = 7;
+            var numberOfQuotes = 7;
 
-            var divRandomPosts = $(".quote");
+            var divRandomQuotes = $(".quote");
 
-            while (counter < numberOfPosts)
+            while (counter < numberOfQuotes)
             {
-                var randomIndex = Math.floor(Math.random() * postsCount);
+                var randomIndex = Math.floor(Math.random() * quotesCount);
 
                 if (randomIndexUsed.indexOf(randomIndex) == "-1")
                 {
-                    var postAuthor = posts[randomIndex].author;
-                    var postText = posts[randomIndex].text;
+                    var quoteText = quotes[randomIndex].text;
 
-                    divRandomPosts[counter].append(postText + " - " + postAuthor);
+                    divRandomQuotes[counter].append(quoteText);
 
                     randomIndexUsed.push(randomIndex);
 
@@ -122,7 +121,7 @@
     }
 
     $(document).ready(function() {
-        generateRandomPosts();
+        generateRandomQuotes();
     });
 
 </script>
