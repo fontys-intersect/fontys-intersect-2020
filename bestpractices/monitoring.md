@@ -26,7 +26,14 @@ It's important to finetune the monitoring system; overreporting can be just as d
 
 ## Cases
 
+- [Smartscreen](cases/smartscreen#Vulnerabilities)
+  Not Applicable
 
+- [Airquality](cases/airquality#Vulnerabilities)
+	Not Applicable
+
+- [Smartscreen](cases/smartscreen#Vulnerabilities)
+	Not Applicable
 
 ## Bibliography
 
