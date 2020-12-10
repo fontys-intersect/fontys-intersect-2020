@@ -5,8 +5,6 @@ main:
     url: /aboutus
   - title: "Research"
     url: /research
-  - title: "Approach"
-    url: /pentestapproach
   - title: "Cases"
     url: /cases
   - title: "Best Pratices"
