@@ -38,7 +38,7 @@ Another big problem is badly managed certificates. certificates that have expire
 
 ## Cases
 
-%TODO%
+
 
 ## Bibliography
 

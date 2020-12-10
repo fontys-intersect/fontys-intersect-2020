@@ -26,7 +26,7 @@ It's important to finetune the monitoring system; overreporting can be just as d
 
 ## Cases
 
-The cases that are relevant to this best practice
+
 
 ## Bibliography
 

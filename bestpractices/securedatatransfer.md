@@ -30,15 +30,11 @@ Proper encryption is extremely difficult to break, so it has no real flaws. Howe
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-There was a distinct lack of encryption of any encryption on the air quality project, leaving the system vulnerable.
+There was a distinct lack of encryption of any kind on the air quality project, leaving the system vulnerable.
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
 
 The smart screen also lacked encryption where needed, the update system. This allowed us to spoof a malicious update.
-
-- [Smartwatch](cases/smartwatch#Vulnerabilities)
-
-The smartwatches had the secure transfer done really well. We were unable to find problems with the encryption.
 
 ## Bibliography
 

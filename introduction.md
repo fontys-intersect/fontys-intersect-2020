@@ -20,6 +20,10 @@ be looking at other environments to test. That possible environment is not only 
 The guidelines presented are there for individuals or companies to use to secure their IoT devices better.
 We have made sure to present our guidelines in a way that everyone can understand and implement on their own.
 
+## Structure of the research
+
+The research approach of this project is case-based. This means that all our info is backed by one or more case studies. During this project three case studies have been done. More about the case studies can be found [here](cases/index.md). Beside the case studies a literature study has been done. Combining these research approaches enhances the overall quality of these guidelines.
+
 ## Structure of the website
 
 The structure of the website is as following: the [research](/research) for this project, including research questions, used methods, etc. The [cases](/cases) we did

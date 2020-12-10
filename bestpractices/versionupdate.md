@@ -24,7 +24,9 @@ When a device is supporting update functionality, it expands the attack surface.
 
 ## Cases
 
-%TODO%
+- [Smartscreen](cases/smartscreen#Vulnerabilities)
+
+The Smartwatch was severely outdated, causing the possibility of unauthorised acces to interfaces.
 
 ## Bibliography
 
