@@ -29,7 +29,7 @@ Even if the secrets are stored in a safe place, it is important that they are st
 - [Airquality](cases/airquality#Vulnerabilities)
 
 There is one case reported from the penetration tests related to this security issue.
-There were hardcoded credentials in XML file in the aircleaner project.
+There were hardcoded credentials in XML file in the Airquality project.
 
 ## Bibliography
 

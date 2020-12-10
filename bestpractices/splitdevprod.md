@@ -34,7 +34,7 @@ It was found that one of the Smart Screens had a debuging panel open which is me
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-The other case was with the aircleaner, where the project was built in development, not in production.
+The other case was with the Airquality, where the project was built in development, not in production.
 
 ## Bibliography
 
