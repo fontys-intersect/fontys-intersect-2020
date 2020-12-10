@@ -22,7 +22,7 @@ We have made sure to present our guidelines in a way that everyone can understan
 
 ## Structure of the research
 
-The research approach of this project is case-based. This means that all our info is backed by one or more case studies. During this project three case studies have been done. More about the case studies can be found [here](cases/index.md). Beside the case studies a literature study has been done. Combining these research approaches enhances the overall quality of these guidelines.
+The research approach of this project is case-based. This means that all our information is backed by one or more case studies. During this project, three case studies have been done. More about the case studies can be found [here](cases/index.md). Besides the case studies, a literature study has been done. Combining these research approaches enhances the overall quality of these guidelines.
 
 ## Structure of the website
 
