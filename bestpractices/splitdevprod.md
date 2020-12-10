@@ -4,7 +4,7 @@ An in-depth page about splitting development and production environments. In thi
 
 ## Table of Contents
 
-- [Splict Development and Production Environments](#splict-development-and-production-environments)
+- [Split Development and Production Environments](#split-development-and-production-environments)
   - [Table of Contents](#table-of-contents)
   - [Explanation](#explanation)
   - [Uses](#uses)
@@ -26,7 +26,15 @@ If you are a small company with little resources, you might not be able to achie
 
 ## Cases
 
-%TODO%
+During the pentests that we performed we found this security issue in two of the products that we tested.
+
+- [Smartscreen](cases/smartscreen#Vulnerabilities)
+  
+It was found that one of the Smart Screens had a debuging panel open which is meant for development environment.
+
+- [Airquality](cases/airquality#Vulnerabilities)
+
+The other case was with the aircleaner, where the project was built in development, not in production.
 
 ## Bibliography
 
