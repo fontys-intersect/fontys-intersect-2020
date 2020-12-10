@@ -26,7 +26,7 @@ There may still be errors around that the developers might not have noticed. The
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-If If there’s an error, the error messages display very little to no information. This is very inconvenient to both the user and the developer because nobody can see what went wrong.
+If there's an error, the error messages display very little to no information. This is very inconvenient to both the user and the developer because nobody can see what went wrong.
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
 
