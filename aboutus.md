@@ -132,7 +132,6 @@
         var imgheight = document.getElementsByClassName("about-img")[memberCounter].offsetHeight;
         document.getElementsByClassName("container")[memberCounter].style.height = (height - imgheight - 30) + "px";
         memberCounter++;
-
       }
       setButton();
     }
@@ -153,7 +152,7 @@
     });
 
     $(window).resize(function() {
-      setHeight();
+      setButton();
     });
 
 </script>

@@ -5,12 +5,12 @@ An in-depth page about Secret management. In this page, it will be explained how
 ## Table of Contents
 
 - [Secret Management](#secret-management)
-- [Table of Contents](#table-of-contents)
-- [Explanation](#explanation)
-- [Usage](#Usage)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Usage](#usage)
+  - [Flaws](#flaws)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -26,7 +26,10 @@ Even if the secrets are stored in a safe place, it is important that they are st
 
 ## Cases
 
-%TODO%
+- [Airquality](cases/airquality#Vulnerabilities)
+
+There is one case reported from the penetration tests related to this security issue.
+There were hardcoded credentials in XML file in the Airquality project.
 
 ## Bibliography
 
