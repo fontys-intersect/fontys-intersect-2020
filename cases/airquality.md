@@ -83,7 +83,3 @@ The best practices, add refer! %TODO%
 ## Bibliography (APA)
 
 - the document for the research of known vulnerabilities %TODO -> add refer%
-
-## Appendix
-
-Any extra pages about this subject.

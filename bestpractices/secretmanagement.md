@@ -1,6 +1,6 @@
 # Secret Management
 
-An in-depth page about Secret management. In this page, it will be explained how it works and how it could be fixed. 
+An in-depth page about Secret management. On this page, it will be explained how it works and how it could be fixed. 
 
 ## Table of Contents
 
@@ -18,18 +18,18 @@ All the secrets including the private keys used for encryption should be stored 
 
 ## Usage
 
-Secrets such as private keys, credentials and configuration files should not be leaked, since they can be abused very easily. That is why all these secrets need to be stored in one central system, such as a vault or a secret manager, they need to be stored encrypted as the very minimun. This makes sure that only the system with permission can access the secrets. It can even be argued that not all developers need access to the secrets, to minimize the chance of the secrets leaking.
+Secrets such as private keys, credentials and configuration files should not be leaked, since they can be abused very easily. That is why all these secrets need to be stored in one central system, such as a vault or a secret manager, they need to be stored encrypted at the very minimum. This makes sure that only the system with permission can access the secrets. It can even be argued that not all developers need access to the secrets, to minimize the chance of the secrets leaking.
 
 ## Flaws
 
-Even if the secrets are stored in a safe place, it is important that they are still accessible. It should be made sure that the connection and data transfer between the storage and the program is also encrypted, or the secret will still come out.
+Even if the secrets are stored in a safe place, they must be still accessible. The connection and data transfer between the storage and the program should also be encrypted, or the secret will still be obtainable by a hacker.
 
 ## Cases
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
 There is one case reported from the penetration tests related to this security issue.
-There were hardcoded credentials in XML file in the aircleaner project.
+There were hardcoded credentials in an XML file in the airquality project.
 
 ## Bibliography
 
