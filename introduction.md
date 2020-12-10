@@ -2,7 +2,7 @@
 
 The digitization of our society and our economy has led to a dependency on information and communication technologies and thus to serious risks related to our cyber security. Until recently risks were, in general, restricted to information security, network security and application security ensuring the confidentiality, the availability and the integrity of data, but with the Internet-of-Things (IoT) we are seamlessly connecting the cyber and the physical worlds extending the risk area to safety requiring a broader perspective on security.
 
-This is a problem that the INTERSCT project want to shed a light. And by doing this make it possible to increase the security of IoT devices
+This is a problem that the INTERSCT project wants to shed a light and by doing this make it possible to increase the security of IoT devices.
 
 ## Objective
 
