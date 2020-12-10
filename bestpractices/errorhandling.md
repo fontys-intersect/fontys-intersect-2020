@@ -34,7 +34,7 @@ The Smartscreen had no problem with error handling.
 
 - [Smartwatch](cases/smartwatch#Vulnerabilities)
 
-Not Applicable.
+	Not Applicable.
 
 ## Bibliography
 

@@ -38,4 +38,4 @@ The other case was with the airquality, where the project was building a develop
 
 ## Bibliography
 
-%TODO%
+Not Applicable
