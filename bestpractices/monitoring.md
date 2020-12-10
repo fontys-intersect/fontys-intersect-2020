@@ -27,15 +27,21 @@ It's important to finetune the monitoring system; overreporting can be just as d
 ## Cases
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
-  Not Applicable
+ 
+Not Applicable.
 
 - [Airquality](cases/airquality#Vulnerabilities)
-	Not Applicable
+
+Not Applicable.
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
-	Not Applicable
+
+Not Applicable.
 
 ## Bibliography
 
 - [Owasp](https://owasp.org/www-project-top-ten/2017/A10_2017-Insufficient_Logging%2526Monitoring)
-%TODO% more sources as mentioned in the text (frameworks and guidelines)
+- [Logging tools](https://stackify.com/best-log-management-tools/)
+- [Logging frameworks commparison](https://stackify.com/nlog-vs-log4net-vs-serilog/)
+- [General logging standards](https://www.dnsstuff.com/logging-monitoring-best-practices)
+
