@@ -38,7 +38,13 @@ Another big problem is badly managed certificates. certificates that have expire
 
 ## Cases
 
+- [Airquality](cases/airquality#Vulnerabilities)
 
+The airquality controller had no problems with their certificates.
+
+- [Smartscreen](cases/smartscreen#Vulnerabilities)
+
+The Smartscreen had problems with their certificates. The update server no SSL.
 
 ## Bibliography
 
