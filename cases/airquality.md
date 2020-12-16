@@ -6,7 +6,7 @@ Farms and workshops need clean air to operate their businesses. There can be a l
 
 - [Airquality sensor](#airquality-sensor)
   - [Table of Contents](#table-of-contents)
-  - [Subject Explanation](#subject-explanation)
+  - [Case Explanation](#case-explanation)
   - [Strengths](#strengths)
   - [Vulnerabilities](#vulnerabilities)
   - [Possible Fixes](#possible-fixes)

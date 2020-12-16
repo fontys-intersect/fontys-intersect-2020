@@ -7,14 +7,13 @@ The smartscreen is a system which is popular in different types of companies, be
 
 - [Smartscreen](#smartscreen)
   - [Table of Contents](#table-of-contents)
-  - [Subject Explanation](#subject-explanation)
+  - [Case Explanation](#case-explanation)
   - [Strengths](#strengths)
   - [Vulnerabilities](#vulnerabilities)
   - [Possible Fixes](#possible-fixes)
   - [Best practices](#best-practices)
-  - [Bibliography (APA)](#bibliography-apa)
 
-## Subject Explanation
+## Case Explanation
 
 For the pentest, a test network was created and the screens were connected to the router with an ethernet cable. The pentesters had full network access and control. Physical access to the smartscreen was also granted to the pentesters. One of the screens has an android version as an operating system while the other had a custom operating system.
 
@@ -52,7 +51,3 @@ Both problems can be fixed quite easily. For the ADB vulnerability just make sur
 ## Best practices
 
 The best practises found in this case are [split development and production](/bestpractices/splitdevprod.md) and [secure data transfer](/bestpractices/securedatatransfer.md) more about these best practices can be read on their respective pages.
-
-## Bibliography (APA)
-
-- the** document for the research of known vulnerabilities <!--TODO% -->

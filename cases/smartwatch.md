@@ -4,13 +4,12 @@ Smartwatches are a common item in the average catalogue of items a person carrie
 
 ## Table of Contents
 
-- [Subject Explanation](#subject-explanation)
+- [Case Explanation](#case-explanation)
 - [Strengths](#bibliography)
 - [Vulnerabilities](#vulnerabilities)
 - [Best practices](#best-practices)
 - [Possible fixes](#possible-fixes)
 - [Bibliography](#bibliography)
-- [Appendix](#appendix)
 
 ## Case Explanation
 
@@ -51,6 +50,3 @@ Always set the automatic update option on the phone smartwatch app to "ON", maki
 - [https://nvd.nist.gov/vuln/detail/CVE-2018-16262](https://nvd.nist.gov/vuln/detail/CVE-2018-16262 )
 - [https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be](https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be)
 
-## Appendix
-
-Any extra pages about this subject.
