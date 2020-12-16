@@ -30,7 +30,9 @@ Lastly, it is better to whitelist than to blacklist certain characters or string
 
 ## Cases
 
-%TODO%
+- [Airquality](cases/airquality#Vulnerabilities)
+
+An attacker can omit certain parameters when making new users, sensors or locations, making these invalid.
 
 ## Bibliography
 

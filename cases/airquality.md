@@ -37,7 +37,6 @@ cyber security aspect.
 The vulnerabilities in this case are as followed:
 
 - **Broken authentication/authorization**
-
     If a user is logged in with a valid session, they can access all pages, because the server is not checking if they an administrator or not. They can then create users, locations, and sensors.
 
 - **Bad error handling**
@@ -83,7 +82,3 @@ The best practices, add refer! %TODO%
 ## Bibliography (APA)
 
 - the document for the research of known vulnerabilities %TODO -> add refer%
-
-## Appendix
-
-Any extra pages about this subject.

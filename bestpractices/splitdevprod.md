@@ -1,6 +1,6 @@
 # Split Development and Production Environments
 
-An in-depth page about splitting development and production environments. In this page, it will be explained how it works and how it could be implemented.
+An in-depth page about splitting development and production environments. On this page, it will be explained how it works and how it could be implemented.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ An in-depth page about splitting development and production environments. In thi
 
 ## Explanation
 
-When you develop products, it will go through several steps. From developing, testing, to eventual production. All of these stages need an environment and something that ties them all together, like a pipeline. These environments need to be different so that there are no things left over from testing in production.
+When you develop a product, it will go through several steps. From developing, testing, to eventual production. All of these stages need an environment and something that ties them all together, like a pipeline. These environments need to be different so that there is nothing left over from testing in production.
 
 ## Uses
 
@@ -26,16 +26,16 @@ If you are a small company with little resources, you might not be able to achie
 
 ## Cases
 
-During the pentests that we performed we found this security issue in two of the products that we tested.
+During the pentests that we performed, we found this security issue in two of the products that we tested.
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
   
-It was found that one of the Smart Screens had a debuging panel open which is meant for development environment.
+It was found that one of the Smart Screens had a debugging panel open which is meant for a development environment.
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-The other case was with the aircleaner, where the project was built in development, not in production.
+The other case was with the airquality, where the project was building a development version, and pushing it to production.
 
 ## Bibliography
 
-%TODO%
+Not Applicable

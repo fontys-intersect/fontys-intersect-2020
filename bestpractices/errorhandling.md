@@ -27,7 +27,17 @@ For more information, the [Owasp Error Handling](https://owasp.org/www-community
 
 ## Cases
 
-%TODO%
+- [Airquality](cases/airquality#Vulnerabilities)
+
+If there's an error, the error messages display very little to no information. This is very inconvenient to both the user and the developer because nobody can see what went wrong.
+
+- [Smartscreen](cases/smartscreen#Vulnerabilities)
+
+The Smartscreen had no problem with error handling.
+
+- [Smartwatch](cases/smartwatch#Vulnerabilities)
+
+	Not Applicable.
 
 ## Bibliography
 

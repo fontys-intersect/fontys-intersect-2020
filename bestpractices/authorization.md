@@ -32,7 +32,13 @@ To make sure that the users cannot do too much, it also is important that any gi
 
 ## Cases
 
-[Airqualtiy](cases/airquality#Vulnerabilities)
+- [Airquality](cases/airquality#Vulnerabilities)
+
+There was no checking on who made the requests to the server, so every user can acces all pages.
+
+- [Smartwatch](cases/smartwatch#Vulnerabilities)
+
+The smartwatches had bad authorization, the user could acces and abuse certain interfaces.
 
 ## Bibliography
 

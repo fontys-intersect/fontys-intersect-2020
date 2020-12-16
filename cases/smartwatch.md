@@ -2,8 +2,6 @@
 Smartwatches are a common item in the average catalog of items a person carries around these days. It has your contact information, can make calls to your friends and even keep track of your steps.
 But these watches are not just like any ordinary watch, they can be hacked and used to spy on people.
 
-![samsungwatch](../assets/images/samsungwatch.jpg){: height="300px" width="200px"}
-
 ## Table of Contents
 
 - [Subject Explanation](#subject-explanation)
@@ -26,7 +24,7 @@ parameters and log the response get. If the response was "InvalidArgs" instead o
 
 Then the attacker could write malware that would abuse the open methods from those interfaces to hijack Wifi/Bluetooth/Contact info etc.. (depending on the interface)
 
-![smartwatch-diagram](../assets/images/smartwatch-diagram.PNG)
+![smartwatch-diagram](/assets/images/smartwatch-diagram.PNG)
 
 ## Strengths
 

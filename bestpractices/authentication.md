@@ -41,7 +41,9 @@ If passwords ever do get leaked, don't hide it. This is illegal by GDPR and also
 
 ## Cases
 
-%TODO%
+- [Airquality](cases/airquality#Vulnerabilities)
+
+There was a distinct lack of encryption of any encryption on the air quality project, leaving the system vulnerable.
 
 ## Bibliography
 - [NIST Digital Identity](https://pages.nist.gov/800-63-3/sp800-63b.html)
