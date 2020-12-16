@@ -48,6 +48,6 @@ The Smartscreen had problems with their certificates. The update server no SSL.
 
 ## Bibliography
 
-- [DigiNotar](https://en.wikipedia.org/wiki/DigiNotar)
-- [Darknet Diaries: The Weakest Link, 2017](https://darknetdiaries.com/episode/3/)
-- [Security Certificate, 2019](https://www.thesslstore.com/blog/what-is-a-website-security-certificate-and-what-does-it-do-for-your-business/)
+- Wikipedia contributors. (2020, 10 september). DigiNotar. Wikipedia. https://en.wikipedia.org/wiki/DigiNotar
+- DigiNotar, You are the Weakest Link, Good Bye! – Darknet Diaries. (2017, 1 oktober). Darknetdiaries. https://darknetdiaries.com/episode/3/
+- Crane, C. (2020, 25 augustus). What Is a Website Security Certificate and What Does It Do for Your Business? Hashed Out by The SSL StoreTM. https://www.thesslstore.com/blog/what-is-a-website-security-certificate-and-what-does-it-do-for-your-business/
