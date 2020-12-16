@@ -49,6 +49,6 @@ There was a distinct lack of encryption of any encryption on the air quality pro
 
 ## Bibliography
 
-- [NIST Digital Identity](https://pages.nist.gov/800-63-3/sp800-63b.html)
+- [NIST Digital Identity, June 2017](https://pages.nist.gov/800-63-3/sp800-63b.html)
 
 - [OWASP cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
