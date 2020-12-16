@@ -47,6 +47,6 @@ Always set the automatic update option on the phone smartwatch app to "ON", maki
 
 ## Bibliography
 
-- [https://nvd.nist.gov/vuln/detail/CVE-2018-16262](https://nvd.nist.gov/vuln/detail/CVE-2018-16262 )
-- [https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be](https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be)
+- NIST. (z.d.). NVD - CVE-2018-16262. nvd.nist.gov. https://nvd.nist.gov/vuln/detail/CVE-2018-16262
+- DEFCONConference. (2018, 22 oktober). DEF CON 26 - Kim and Choi - Your Watch Can Watch You! Pitfalls in the Samsung Gear Smartwatch. YouTube. https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
 
