@@ -1,7 +1,7 @@
 # Smartscreen
 
-Nowadays many companies and individuals use IoT devices; such as smartphone, smart doorbells or smart screens.
-The smartscreen is a system which is popular in different types of companies, because of the flexibility of those screens. Smartscreens can run custom applications but can also be connected to a laptop to give presentations. Those screens could contain (sensitive) data, which means they need to be secure. Besides data attacks on the smartscreens, attackers could try to get control over the smartscreen to get network access or to use the smartscreen for malicious plans like a botnet.
+These days many companies and individuals use IoT devices, such as smartphone, smart doorbells or smart screens.
+The smartscreen is a system which is popular in different types of companies, because of the flexibility of those screens. Smartscreens can run custom applications but can also be connected to a laptop to give presentations. Besides data attacks on the smartscreens, attackers could try to get control over the smartscreen to get network access or to use the smartscreen for malicious plans like a botnet.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ The smartscreen is a system which is popular in different types of companies, be
 - [Vulnerabilities](#vulnerabilities)
 - [Possible Fixes](#possible-fixes)
 - [Best practices](#best-practices)
-- [Bibliography (APA)](#bibliography-apa)
+- [Bibliography](#bibliography-apa)
 
 ## Subject Explanation
 
@@ -18,7 +18,7 @@ For the pentest, a test network was created and the screens were connected to th
 
 ![network sketch](/assets/images/networksketch/smart-screen.png)
 
-According to the [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chain/) the screens and accorded services were tested. The pentests started the same way and became slightly different based on their individual findings. The tools that were used are mostly the same tools we use in Kali Linux for other pentests. Among these are:
+the screens and their services were tested according to the [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chain/). The pentests started the same way and became slightly different based on their findings. The tools that were used are mostly the same tools we use in Kali Linux for other pentests. Among these are:
 
 - [Burp Suite](https://portswigger.net/burp)
 - [Nmap](https://nmap.org/)
@@ -39,7 +39,7 @@ The initial version of the smart screen we tested had the android debug bridge(A
 ![ADB connect](/assets/images/adb_connect.png)
 
 - **False firmware update**
-Because the update server did not implement HTTPS it is possible to read the communication between the smart screen and the server. This makes it possible to create a fake update server, combine this with a man in the middle attack and it is possible to make the smart screen pull an update from the fake server. This can either corrupt or add malware to the smart screen.
+Because the update server did not implement HTTPS it is possible to read the communication between the smart screen and the server. This makes it possible to create a fake update server, combine this with a man in the middle attack and it is possible to make the smart screen pull an update from the fake server. This can allow an attack add malware or corrupt the smart screen.
 
 ![update requests](/assets/images/fake_server.png)
 
