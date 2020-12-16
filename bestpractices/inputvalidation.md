@@ -1,16 +1,14 @@
 # Input Validation
 
-Every users input should be properly validated, to make sure that nothing malicous is entered.
+Every user's input should be properly validated, to make sure that nothing malicious is entered.
 
 ## Table of Contents
 
-- [Input Validation](#input-validation)
-  - [Table of Contents](#table-of-contents)
-  - [Explanation](#explanation)
-  - [Usage](#usage)
-  - [Flaws](#flaws)
-  - [Cases](#cases)
-  - [Bibliography](#bibliography)
+- [Explanation](#explanation)
+- [Usage](#usage)
+- [Flaws](#flaws)
+- [Cases](#cases)
+- [Bibliography](#bibliography)
 
 ## Explanation
 
