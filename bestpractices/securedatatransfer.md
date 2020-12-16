@@ -35,6 +35,5 @@ There was a distinct lack of encryption of any kind on the air quality project, 
 The smart screen also lacked encryption were needed, the update system. This allowed an attacker to spoof a malicious update.
 
 ## Bibliography
-
-- Allan, M. (2020, June 22). 6 Types of Encryption That You Must Know About. GoodCore Blog. <https://www.goodcore.co.uk/blog/types-of-encryption/>
-- McKay, K. A., & Cooper, D. A. (2019, August). Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations. NIST. <https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-52r2.pdf>
+- Allan, M. (2020, 22 juni). 6 Types of Encryption That You Must Know About. GoodCore Blog. https://www.goodcore.co.uk/blog/types-of-encryption/
+- NIST. (2019). Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations. NIST, National Institute of National Technology, 2019(1), 1�63. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-52r2.pdf

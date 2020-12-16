@@ -29,6 +29,8 @@ Even if the secrets are stored in a safe place, they must be still accessible. T
 There is one case reported from the penetration tests related to this security issue: There where hardcoded credentials in an XML file in the airquality project.
 
 ## Bibliography
+- Secrets Management: Importance, Challenges, Best Practices. (2020, 28 juli). Ekransystem. https://www.ekransystem.com/en/blog/secrets-management
+- What is Secrets Management? - Definition. (2020, 17 juli). CyberArk. https://www.cyberark.com/what-is/secrets-management/
 
 - EKranSystem. (2020, July 28). Secrets Management: Importance, Challenges, Best Practices. EKran. <https://www.ekransystem.com/en/blog/secrets-management>
 - CyberArk. (2020, July 17). What is Secrets Management? - Definition. <https://www.cyberark.com/what-is/secrets-management/>

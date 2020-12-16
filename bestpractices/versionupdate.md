@@ -30,6 +30,6 @@ The smartwatch was severely outdated, causing the possibility of unauthorised ac
 
 ## Bibliography
 
-- [Baseline Security Recommendations for IoT, November 20 2017](https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot)
-- [International Cybersecurity Standardization for IoT, Febuary 2018](https://csrc.nist.gov/CSRC/media/Publications/nistir/8200/draft/documents/nistir8200-draft.pdf)
+- Baseline Security Recommendations for IoT. (z.d.). enisa. Geraadpleegd op 16 december 2020, van https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot
+- NIST. (z.d.). Interagency Report on Status of 2 International Cybersecurity 3 Standardization for the 4 Internet of Things (IoT). csrc.nist.gov. https://csrc.nist.gov/CSRC/media/Publications/nistir/8200/draft/documents/nistir8200-draft.pdf
 - Enisa. (2019, 1 oktober). Good Practices IoT Enisa. https://www.enisa.europa.eu/. https://www.enisa.europa.eu/publications/good-practices-for-security-of-iot-1/at_download/fullReport 

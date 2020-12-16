@@ -37,6 +37,9 @@ It was found that one of the Smart Screens had a debugging panel open which is m
 The other case was with the airquality, where the project was building a development version, and pushing it to production.
 
 ## Bibliography
+- Traditional Development/Integration/Staging/Production Practice for Software Development. (2018, 15 januari). Disruptive Library Technology Jester. https://dltj.org/article/software-development-practice/
+- S.W. (z.d.). Development Sandboxes: An Agile Core Practice. Agiledata. http://www.agiledata.org/essays/sandboxes.html
+- Baseline Security Recommendations for IoT. (2017, 20 november). Enisa. https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot
 
  - [Traditional Development/Integration/Staging/Production Practice for Software Development, December 4 2006](https://dltj.org/article/software-development-practice/)
 - [Development Sandboxes: An Agile 'Best Practice', Date: n.d.](https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot)

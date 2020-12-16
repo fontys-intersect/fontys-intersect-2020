@@ -42,5 +42,5 @@ An attacker can omit certain parameters when making new users, sensors or locati
 
 ## Bibliography
 
-- OWASP. (n.d.-b). Input Validation - OWASP Cheat Sheet Series. Retrieved December 15, 2020, from <https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html>
-- Force, J. T. (2020, December 10). SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC. NIST. <https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final>
+- Input Validation - OWASP Cheat Sheet Series. (z.d.). Cheatsheetseries. https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html
+- Force, J. T. (2020, 10 december). SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC. csrc.nist.gov. https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
