@@ -36,11 +36,8 @@ To make sure that the users cannot do too much, it also is important that any gi
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-There was no checking on who made the requests to the server, so every user can access all pages.
-
-- [Smartwatch](cases/smartwatch#Vulnerabilities)
-
-The smartwatches had bad authorization, the user could access and abuse certain interfaces.
+The session of a user was only checked on its validity, but never if the user should be able to access the page, this allowed any user to access all resources.
 
 ## Bibliography
-- Powell, M. (2020, 14 december). Best Practices for Authentication and Authorization. CPO Magazine. https://www.cpomagazine.com/tech/best-practices-for-authentication-and-authorization/
+
+- Powell, M. (2020, 14 December). Best Practices for Authentication and Authorization. CPO Magazine. <https://www.cpomagazine.com/tech/best-practices-for-authentication-and-authorization/>
