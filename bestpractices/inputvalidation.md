@@ -1,6 +1,6 @@
 # Input Validation
 
-Every users input should be properly validated, to make sure that nothing malicous is entered.
+Every user's input should be properly validated, to make sure that nothing malicous is entered.
 
 ## Table of Contents
 
@@ -43,4 +43,4 @@ An attacker can omit certain parameters when making new users, sensors or locati
 ## Bibliography
 
 - OWASP. (n.d.-b). Input Validation - OWASP Cheat Sheet Series. Retrieved December 15, 2020, from <https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html>
-- Force, J. T. (2020, December 10). SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC. NIST. <https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final>
+- FNIST. (2020, December 10). SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC. NIST. <https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final>
