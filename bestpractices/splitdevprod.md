@@ -28,11 +28,7 @@ During the pentests that we performed, we found this security issue in two of th
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
   
-It was found that one of the Smart Screens had a debugging panel open which is meant for a development environment.
-
-- [Airquality](cases/airquality#Vulnerabilities)
-
-The other case was with the airquality, where the project was building a development version, and pushing it to production.
+It was found that one of the Smart Screens had a debugging shell open which is meant for a development environment.
 
 ## Bibliography
 

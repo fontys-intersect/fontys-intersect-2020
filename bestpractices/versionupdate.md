@@ -23,9 +23,11 @@ When a device is supporting update functionality, it expands the attack surface.
 ## Cases
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
-The smartscreen supported an update functionality, but in an insecure way. A malicious update could be sent to the update server.
+
+The smartscreen supported an update functionality, but in an insecure way. A malicious update could be sent to the updating client by intercepting the traffic.
 
 - [Smartwatch](cases/smartwatch#Vulnerabilities)
+
 The smartwatch was severely outdated, causing the possibility of unauthorised access to interfaces.
 
 ## Bibliography

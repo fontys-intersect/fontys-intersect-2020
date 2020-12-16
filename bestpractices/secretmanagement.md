@@ -26,7 +26,7 @@ Even if the secrets are stored in a safe place, they must be still accessible. T
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-There is one case reported from the penetration tests related to this security issue: There where hardcoded credentials in an XML file in the airquality project.
+There is one case reported from the penetration tests related to this security issue: There where hardcoded credentials in an XML file in the airquality project. Other passwords where also badly mananged and stored.
 
 ## Bibliography
 
