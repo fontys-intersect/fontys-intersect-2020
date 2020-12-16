@@ -41,12 +41,12 @@ This is relatively easy to implement, by simply checking "the automatic update" 
 
 ## Best practices
 
-The Smartwatch should be updated when given the chance to as referred to in the [Version-Update best practise page](/bestPractises/versionUpdate).
+The Smartwatch should be updated when given the chance to as referred to in the [version update](/bestpractices/versionupdate) best practice.
 
 Always set the automatic update option on the phone smartwatch app to "ON", making sure the user does not have to think about whether he has to update his watch or not. And if the user has one, link the account to the smartwatch app on the phone. This way the user can erase their data, or transfer their data to a new watch safely.
 
 ## Bibliography
 
-- [https://nvd.nist.gov/vuln/detail/CVE-2018-16262](https://nvd.nist.gov/vuln/detail/CVE-2018-16262 )
-- [https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be](https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be)
+- NIST. (z.d.). NVD - CVE-2018-16262. nvd.nist.gov. https://nvd.nist.gov/vuln/detail/CVE-2018-16262
+- DEFCONConference. (2018, 22 oktober). DEF CON 26 - Kim and Choi - Your Watch Can Watch You! Pitfalls in the Samsung Gear Smartwatch. YouTube. https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
 
