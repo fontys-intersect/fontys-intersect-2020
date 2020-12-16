@@ -75,6 +75,7 @@
 
 .about-img{
     height: 230px;
+    object-fit: cover;
 }
 
 .card p {
