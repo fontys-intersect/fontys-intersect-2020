@@ -4,12 +4,11 @@ Farms and workshops need clean air to operate their businesses. There can be a l
 
 ## Table of Contents
 
-- [Airquality sensor](#airquality-sensor)
-  - [Table of Contents](#table-of-contents)
-  - [Case Explanation](#case-explanation)
-  - [Strengths](#strengths)
-  - [Vulnerabilities](#vulnerabilities)
-  - [Possible Fixes](#possible-fixes)
+- [Case Explanation](#case-explanation)
+- [Strengths](#strengths)
+- [Vulnerabilities](#vulnerabilities)
+- [Possible Fixes](#possible-fixes)
+- [Best practices](#best-practices)
 
 ## Case Explanation
 
@@ -70,3 +69,6 @@ The vulnerabilities, in this case, are as followed:
 All of the vulnerabilities in the application can be fixed. To fix those, for each vulnerability
 the best practice needs to be followed. After this is done, there should be a lot of tests, to see if the vulnerabilities are
 really fixed.
+
+## Best practices
+The best practises found in this case are [split development and production](/bestpractices/splitdevprod.md), [authentication](/bestpractices/authentication.md) [authorization](/bestpractices/authorization.md), [errorhandling](/bestpractices/errorhandling.md), [inputvalidation](/bestpractices/inputvalidation.md) and [secretmanagement](/bestpractices/secretmanagement.md)  more about these best practices can be read on their respective pages.

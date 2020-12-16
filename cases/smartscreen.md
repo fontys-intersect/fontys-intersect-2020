@@ -5,13 +5,11 @@ The smartscreen is a system which is popular in different types of companies, be
 
 ## Table of Contents
 
-- [Smartscreen](#smartscreen)
-  - [Table of Contents](#table-of-contents)
-  - [Case Explanation](#case-explanation)
-  - [Strengths](#strengths)
-  - [Vulnerabilities](#vulnerabilities)
-  - [Possible Fixes](#possible-fixes)
-  - [Best practices](#best-practices)
+- [Case Explanation](#case-explanation)
+- [Strengths](#strengths)
+- [Vulnerabilities](#vulnerabilities)
+- [Possible Fixes](#possible-fixes)
+- [Best practices](#best-practices)
 
 ## Case Explanation
 
@@ -50,4 +48,4 @@ Both problems can be fixed quite easily. For the ADB vulnerability just make sur
 
 ## Best practices
 
-The best practises found in this case are [split development and production](/bestpractices/splitdevprod.md) and [secure data transfer](/bestpractices/securedatatransfer.md) more about these best practices can be read on their respective pages.
+The best practises found in this case are [split development and production](/bestpractices/splitdevprod.md), [certificates](/bestpractices/certificates.md), [versionupdate](/bestpractices/versionupdate.md) and [secure data transfer](/bestpractices/securedatatransfer.md) more about these best practices can be read on their respective pages.
