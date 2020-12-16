@@ -9,7 +9,7 @@ All the best practices are listed below:
 - [Certificates](/bestpractices/certificates)
 - [Error handling](/bestpractices/errorhandling)
 - [Input validation](/bestpractices/inputvalidation)
-- [Monitoring](/bestpractices/monitoring)
+- [Monitoring and logging](/bestpractices/monitoring)
 - [Secret Management](/bestpractices/secretmanagement)
 - [Secure data transfer](/bestpractices/securedatatransfer)
 - [Split development & production environment](/bestpractices/splitdevprod)
