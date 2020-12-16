@@ -1,8 +1,8 @@
 # Input Validation
 
-An in-depth page about the Input Validation. In this page, it will be explained how it works and how it could be implemented.
+Every users input should be properly validated, to make sure that nothing malicous is entered.
 
-### Table of Contents
+## Table of Contents
 
 - [Explanation](#explanation)
 - [Uses](#usage)
@@ -22,11 +22,14 @@ Input validation, on both frontend and the backend, is important. If the program
 **Checks**
 There are several ways to validate inputs. Minimum and maximum range checks, type converters, and regex are some ways to do so. Some frameworks have it built-in, like Django or Angular. There are also JSON or XML schemas to check inputs against.
 
+**Functions**
+Certain functions should not be used with unchecked user input, because an attacker could be able to inject dangerous input into the function. Always read the documentation carefully to make sure that you do not make any mistakes. Most proper frameworks have solutions for these problems, but they must be used correctly in order to work.
+
 ## Flaws
 
 If the input validation is only in the front-end but not in the backend, hackers may send crafted requests with messages that would not have been accepted by the frontend. Make sure to implement the validation in the backend. All frontend checks can be circumvented by a simple proxy, so checking the backend is crucial.
 
-Lastly, it is better to whitelist than to blacklist certain characters or strings. If you try to blacklist `<script>` or `1=1` you might end up with XSS anyway because hackers found a way to evade this. Whitelisting will tell the website what is authorized, and by default, anything else won't be authorized.
+Lastly, it is better to whitelist than to blacklist certain characters or strings. If you try to blacklist `<script>` or `1=1` you might end up with an exploit anyway because hackers found a way to evade this. Whitelisting will tell the website what is authorized, and by default, anything else won't be authorized.
 
 ## Cases
 
