@@ -4,11 +4,13 @@ An in-depth page about Certificates. In this page, it will be explained how it w
 
 ## Table of Contents
 
-- [Explanation](#explanation)
-- [Uses](#usage)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
+- [Certificates](#certificates)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Usage](#usage)
+  - [Flaws](#flaws)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -48,6 +50,6 @@ The Smartscreen had problems with their certificates. The update server no SSL.
 
 ## Bibliography
 
-- [DigiNotar](https://en.wikipedia.org/wiki/DigiNotar)
+- [DigiNotar, Date: n.d.](https://en.wikipedia.org/wiki/DigiNotar)
 - [Darknet Diaries: The Weakest Link, 2017](https://darknetdiaries.com/episode/3/)
 - [Security Certificate, 2019](https://www.thesslstore.com/blog/what-is-a-website-security-certificate-and-what-does-it-do-for-your-business/)

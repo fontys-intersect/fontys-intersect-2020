@@ -4,11 +4,14 @@ This page will go in-depth on the topic of error handling; what it is, why it's 
 
 ## Table of Contents
 
-- [Explanation](#explanation)
-- [Uses](#usage)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
+- [Error Handling](#error-handling)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Usage](#usage)
+  - [Flaws](#flaws)
+    - [Owasp](#owasp)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -43,4 +46,4 @@ Not Applicable.
 ## Bibliography
 
 - [IOT Security Foundation Guidelines, 2019](https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf)
-- [Owasp Error Handling](https://owasp.org/www-community/Improper_Error_Handling)
+- [Owasp Error Handling, Date: n.d.](https://owasp.org/www-community/Improper_Error_Handling)

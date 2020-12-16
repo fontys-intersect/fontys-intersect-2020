@@ -4,11 +4,13 @@ When communicating with other systems, you don't want anyone to listen in on wha
 
 ## Table of Contents
 
-- [Explanation](#explanation)
-- [Usage](#usage)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
+- [Secure Data Transfer and Storage](#secure-data-transfer-and-storage)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Usage](#usage)
+  - [Flaws](#flaws)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -35,4 +37,4 @@ There was a distinct lack of encryption of any kind on the air quality project, 
 The smart screen also lacked encryption were needed, the update system. This allowed an attacker to spoof a malicious update.
 
 ## Bibliography
-[Allan, M (2020, June 22). 6 types of encryption that you must know about. GoodCore Blog.](https://www.goodcore.co.uk/blog/types-of-encryption/)
+[ (2020, June 22). 6 types of encryption that you must know about. GoodCore Blog., Allan M., June 22 2020  ](https://www.goodcore.co.uk/blog/types-of-encryption/)
