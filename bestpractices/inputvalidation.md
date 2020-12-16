@@ -22,10 +22,10 @@ Input validation is making sure that what you enter in a text field is what you'
 Input validation, on both the frontend and the backend, is important. If the program expects a certain value or string, it should get that value or string. If it gets something unexpected, and it's handled incorrectly, the program or website could crash. Hackers might also take advantage of bad input validation, like entering negative values in a money transfer, effectively giving themselves the money. It is also useful to avoid a textbox-based attack, like SQL-injection and cross-site scripting (XSS).
 
 **Checks**
-There are several ways to validate inputs. Minimum and maximum range checks, type converters, and regex are some ways to do so. Some frameworks have it built-in, like Django or Angular. There are also JSON or XML schemas to check inputs against. Besides text input validation other inputs such as files should also be checked. This can be done by limiting the accepted file types. According to Nist(2020) input validation errors should be reviewed and resolved within a predefined time period.
+There are several ways to validate inputs. Minimum and maximum range checks, type converters, and regex are some ways to do so. Some frameworks have it built-in, like Django or Angular. There are also JSON or XML schemas to check inputs against. Besides text input validation other inputs such as files should also be checked. This can be done by limiting the accepted file types. According to Nist, input validation errors should be reviewed and resolved within a predefined period.
 
 **Manual override**
-Nist(2020) recommends to add manual override capabilities for input validation. The access to this override should be restricted to only be accessible to organization-defined authorized individuals. "In certain situations, such as during events that are defined in contingency plans, a manual override capability for input validation may be needed"(Nist, 2020) the use of the manual override should be limited.
+Nist recommends to add manual override capabilities for input validation. The access to this override should be restricted to only be accessible to organization-defined authorized individuals. *"In certain situations, such as during events that are defined in contingency plans, a manual override capability for input validation may be needed"*(Nist, 2020) the use of the manual override should be limited.
 
 **Functions**
 Certain functions should not be used with unchecked user input, because an attacker could be able to inject dangerous input into the function. Always read the documentation carefully to make sure that you do not make any mistakes. Most proper frameworks have solutions for these problems, but they must be used correctly in order to work.
@@ -44,5 +44,5 @@ An attacker can omit certain parameters when making new users, sensors or locati
 
 ## Bibliography
 
-- [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
-- [Security and Privacy Controls for Information Systems and Organizations, Nist, December 10 2020.](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+- IoT Security Foundation. (2019, November 2). Secure design Best Practice Guides. <https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf>
+- Force, J. T. (2020, December 10). SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC. NIST. <https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final>
