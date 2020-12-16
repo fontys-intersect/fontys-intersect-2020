@@ -10,10 +10,8 @@ Farms and workshops need clean air to operate their businesses. There can be a l
   - [Strengths](#strengths)
   - [Vulnerabilities](#vulnerabilities)
   - [Possible Fixes](#possible-fixes)
-  - [Best practices](#best-practices)
-  - [Bibliography (APA)](#bibliography-apa)
 
-## Subject Explanation
+## Case Explanation
 
 The application and sensors were tested according the [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chain/). Testing was done on a private server that was only accessible to the testers.
 
@@ -72,11 +70,3 @@ The vulnerabilities, in this case, are as followed:
 All of the vulnerabilities in the application can be fixed. To fix those, for each vulnerability
 the best practice needs to be followed. After this is done, there should be a lot of tests, to see if the vulnerabilities are
 really fixed.
-
-## Best practices
-
-The best practices, add refer! %TODO%
-
-## Bibliography (APA)
-
-- the document for the research of known vulnerabilities %TODO -> add refer%
