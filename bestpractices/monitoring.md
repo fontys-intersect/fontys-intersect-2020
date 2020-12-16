@@ -35,7 +35,7 @@ The application had no logging implemented, making it very difficult to find pro
 ## Bibliography
 
 - NIST. (2011, September). Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations. <https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf>
-- OWASP. (n.d.-a). A10:2017-Insufficient Logging & Monitoring | OWASP. Retrieved December 15, 2020, from <https://owasp.org/www-project-top-ten/2017/A10_2017-Insufficient_Logging%2526Monitoring>
+- OWASP. (n.d.-a). A10:2017-Insufficient Logging & Monitoring OWASP. Retrieved December 15, 2020, from <https://owasp.org/www-project-top-ten/2017/A10_2017-Insufficient_Logging%2526Monitoring>
 - Altvater, A. (2020, August 7). Best Log Management Tools: 51 Useful Tools for Log Management, Monitoring, Analytics, and More. Stackify. <https://stackify.com/best-log-management-tools/>
 - Timms, S. (2020, April 27). NLog vs log4net vs Serilog: Compare .NET Logging Frameworks. Stackify. <https://stackify.com/nlog-vs-log4net-vs-serilog/>
 - Contributor, S. (2020, October 28). 8 Best Practices and Standards for Logging and Monitoring—DNSstuff. Software Reviews, Opinions, and Tips - DNSstuff. <https://www.dnsstuff.com/logging-monitoring-best-practices>
