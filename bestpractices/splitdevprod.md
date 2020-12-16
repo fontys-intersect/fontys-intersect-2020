@@ -32,5 +32,7 @@ It was found that one of the Smart Screens had a debugging shell open which is m
 
 ## Bibliography
 
+- Traditional Development/Integration/Staging/Production Practice for Software Development. (2018, 15 januari). Disruptive Library Technology Jester. <https://dltj.org/article/software-development-practice/>
+- S.W. (z.d.). Development Sandboxes: An Agile Core Practice. Agiledata. <http://www.agiledata.org/essays/sandboxes.html>
 - Disruptive Library Technology Jester. (2018, January 15). Traditional Development/Integration/Staging/Production Practice for Software Development. <https://dltj.org/article/software-development-practice/>
 - ENISA. (2017, 20 November). Baseline Security Recommendations for IoT. <https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot>

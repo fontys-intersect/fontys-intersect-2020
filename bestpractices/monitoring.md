@@ -32,7 +32,6 @@ In the bibliography will be multiple sources on how to properly implement loggin
 
 The application had no logging implemented, making it very difficult to find problems in the application.
 
-
 ## Bibliography
 
 - NIST. (2011, September). Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations. <https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf>

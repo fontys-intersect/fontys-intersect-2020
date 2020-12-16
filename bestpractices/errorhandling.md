@@ -35,5 +35,5 @@ If there's an error, the error messages display very little to no information. T
 
 ## Bibliography
 
-- IoT Security Foundation. (2019, November 2). Secure design Best Practice Guides. <https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf>
-- OWASP. (2020, November 9). Improper Error Handling. <https://owasp.org/www-community/Improper_Error_Handling>
+- Iotsecurityfoundation. (z.d.). IoT Security Foundation. <https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf>
+- J.F.W.J.B. (z.d.). Improper Error Handling. OWASP. <https://owasp.org/www-community/Improper_Error_Handling>

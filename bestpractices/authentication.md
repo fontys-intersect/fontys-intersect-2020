@@ -50,5 +50,4 @@ The smartwatches had bad authentication, the user could access and abuse certain
 ## Bibliography
 
 - NIST Special Publication 800-63B. (z.d.). NIST. <https://pages.nist.gov/800-63-3/sp800-63b.html>
-
 - Authentication - OWASP Cheat Sheet Series. (z.d.). cheatsheetseries.owasp.org. <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html>
