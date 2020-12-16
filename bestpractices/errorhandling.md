@@ -4,14 +4,12 @@ This page will go in-depth on the topic of error handling; what it is, why it's 
 
 ## Table of Contents
 
-- [Error Handling](#error-handling)
-  - [Table of Contents](#table-of-contents)
-  - [Explanation](#explanation)
-  - [Usage](#usage)
-  - [Flaws](#flaws)
-    - [Owasp](#owasp)
-  - [Cases](#cases)
-  - [Bibliography](#bibliography)
+- [Explanation](#explanation)
+- [Usage](#usage)
+- [Flaws](#flaws)
+- [Owasp](#owasp)
+- [Cases](#cases)
+- [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -33,17 +31,9 @@ For more information, the [Owasp Error Handling](https://owasp.org/www-community
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-If there's an error, the error messages display very little to no information. This is very inconvenient to both the user and the developer because nobody can see what went wrong.
-
-- [Smartscreen](cases/smartscreen#Vulnerabilities)
-
-The Smartscreen had no problem with error handling.
-
-- [Smartwatch](cases/smartwatch#Vulnerabilities)
-
-Not Applicable.
+If there's an error, the error messages display very little to no information. This is very inconvenient to both the user and the developer because nobody can see what went wrong. For instance, when the system could not communicate with the database, it would just reply "Wrong username or password", which can be very frustrating.
 
 ## Bibliography
 
-- [IOT Security Foundation Guidelines, 2019](https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf)
-- [Owasp Error Handling, Date: n.d.](https://owasp.org/www-community/Improper_Error_Handling)
+- IoT Security Foundation. (2019, November 2). Secure design Best Practice Guides. <https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf>
+- OWASP. (2020, November 9). Improper Error Handling. <https://owasp.org/www-community/Improper_Error_Handling>
