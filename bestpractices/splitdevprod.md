@@ -4,13 +4,11 @@ When developing a system, the developers use tools to make it easier. These tool
 
 ## Table of Contents
 
-- [Split Development and Production Environments](#split-development-and-production-environments)
-  - [Table of Contents](#table-of-contents)
-  - [Explanation](#explanation)
-  - [Uses](#uses)
-  - [Flaws](#flaws)
-  - [Cases](#cases)
-  - [Bibliography](#bibliography)
+- [Explanation](#explanation)
+- [Uses](#uses)
+- [Flaws](#flaws)
+- [Cases](#cases)
+- [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -38,6 +36,5 @@ The other case was with the airquality, where the project was building a develop
 
 ## Bibliography
 
- - [Traditional Development/Integration/Staging/Production Practice for Software Development, December 4 2006](https://dltj.org/article/software-development-practice/)
-- [Development Sandboxes: An Agile 'Best Practice', Date: n.d.](https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot)
-- [Use multiple environments in ASP.NET Core, April 5 2019](https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot)
+- Disruptive Library Technology Jester. (2018, January 15). Traditional Development/Integration/Staging/Production Practice for Software Development. <https://dltj.org/article/software-development-practice/>
+- ENISA. (2017, 20 November). Baseline Security Recommendations for IoT. <https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot>
