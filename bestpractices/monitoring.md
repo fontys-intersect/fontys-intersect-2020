@@ -27,7 +27,7 @@ It's important to finetune the monitoring system; overreporting can be just as d
 ## Cases
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
- 
+
 Not Applicable.
 
 - [Airquality](cases/airquality#Vulnerabilities)
@@ -44,4 +44,3 @@ Not Applicable.
 - [Logging tools](https://stackify.com/best-log-management-tools/)
 - [Logging frameworks commparison](https://stackify.com/nlog-vs-log4net-vs-serilog/)
 - [General logging standards](https://www.dnsstuff.com/logging-monitoring-best-practices)
-
