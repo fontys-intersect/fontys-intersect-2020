@@ -1,14 +1,16 @@
 # Input Validation
 
-Every user's input should be properly validated, to make sure that nothing malicious is entered.
+Every users input should be properly validated, to make sure that nothing malicous is entered.
 
 ## Table of Contents
 
-- [Explanation](#explanation)
-- [Usage](#usage)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
+- [Input Validation](#input-validation)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Usage](#usage)
+  - [Flaws](#flaws)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -42,5 +44,5 @@ An attacker can omit certain parameters when making new users, sensors or locati
 
 ## Bibliography
 
-- IoT Security Foundation. (2019, November 2). Secure design Best Practice Guides. <https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf>
+- OWASP. (n.d.-b). Input Validation - OWASP Cheat Sheet Series. Retrieved December 15, 2020, from <https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html>
 - Force, J. T. (2020, December 10). SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC. NIST. <https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final>
