@@ -27,5 +27,4 @@ The research approach of this project is case-based. This means that all our inf
 ## Structure of the website
 
 The structure of the website is as following: the [research](/research) for this project, including research questions, used methods, etc. The [cases](/cases) we did
-result in common vulnerabilities, those vulnerabilities could be used to create [best practices](/bestpractices/index). For each case, we used the same approach which can be seen
-[here](/pentestapproach).
+result in common vulnerabilities, those vulnerabilities were used to create [best practices](/bestpractices/index).
