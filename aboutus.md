@@ -53,7 +53,7 @@
 <div class="row">
     <div class="cardHolder col-xs-12 col-sm-6 col-md-4 col-lg-3">
     <div class="card">
-      <img class="about-img" src="assets/images/team/joel.png" alt="Joel Adams" style="width:100%">
+      <img class="about-img" src="assets/images/team/joel.jpg" alt="Joel Adams" style="width:100%">
       <div class="container">
         <h2>Joël Adams</h2>
         <p class="title">Ethical Hacker</p>

@@ -43,4 +43,4 @@ There was no checking on who made the requests to the server, so every user can 
 The smartwatches had bad authorization, the user could access and abuse certain interfaces.
 
 ## Bibliography
-[Cpomagazine, 2020](https://www.cpomagazine.com/tech/best-practices-for-authentication-and-authorization/)
+- Powell, M. (2020, 14 december). Best Practices for Authentication and Authorization. CPO Magazine. https://www.cpomagazine.com/tech/best-practices-for-authentication-and-authorization/
