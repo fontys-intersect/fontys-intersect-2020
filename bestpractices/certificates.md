@@ -4,13 +4,11 @@ An in-depth page about Certificates. In this page, it will be explained how it w
 
 ## Table of Contents
 
-- [Certificates](#certificates)
-  - [Table of Contents](#table-of-contents)
-  - [Explanation](#explanation)
-  - [Usage](#usage)
-  - [Flaws](#flaws)
-  - [Cases](#cases)
-  - [Bibliography](#bibliography)
+- [Explanation](#explanation)
+- [Usage](#usage)
+- [Flaws](#flaws)
+- [Cases](#cases)
+- [Bibliography](#bibliography)
 
 ## Explanation
 
