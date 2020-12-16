@@ -28,7 +28,7 @@ Store passwords securely, hashed in a database. Hashing is similar to encryption
 2FA is a good way to authenticate your user. 2FA is an extra one time code, that is sent to another confirmed device, such as a phone. This makes the login considerably more secure since the login must be confirmed by the user, even if the credentials are leaked.
 
 - **NIST Digital Identity**
-Another source for authentication is the NIST document. NIST stands for the National Institute of Standards in Technology, based in America. In this guideline, authentication is explained even more in-depth. [NIST Digital Identity](https://pages.nist.gov/800-63-3/sp800-63b.html).
+Another source for authentication is the NIST document. NIST stands for the National Institute of Standards in Technology, based in America. In this guideline, authentication is explained even more in-depth. [NIST Digital Identity, 2020](https://pages.nist.gov/800-63-3/sp800-63b.html).
 
 **Validate Sessions**
 Besides the passwords, the application also needs to know if the user is logged in. This can be done by using a session, for instance with JWT. This way the application knows who the user is and whether he is allowed something. Make sure that this session is secure since users can often edit the sessions client-side. JWT uses a signed hash to verify the integrity of the token, this makes sure that the token has not been tampered with.

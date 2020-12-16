@@ -24,7 +24,7 @@ Authorization needs to be properly implemented. If the wrong entity has access t
 
 It is also very important to keep the roles and rights very tight. No user should be able to do more than they should, to make sure that the rights are abused.
 
-If you want to know more about Authorization in IoT, [Cloud Security Alliance](https://downloads.cloudsecurityalliance.org/assets/research/internet-of-things/identity-and-access-management-for-the-iot.pdf) has created a more in-depth guideline to oversee identity and access management.
+If you want to know more about Authorization in IoT, [Cloud Security Alliance, 2016](https://downloads.cloudsecurityalliance.org/assets/research/internet-of-things/identity-and-access-management-for-the-iot.pdf) has created a more in-depth guideline to oversee identity and access management.
 
 ## Flaws
 
@@ -43,5 +43,4 @@ There was no checking on who made the requests to the server, so every user can 
 The smartwatches had bad authorization, the user could access and abuse certain interfaces.
 
 ## Bibliography
-
-- <https://www.cpomagazine.com/tech/best-practices-for-authentication-and-authorization/>
+[Cpomagazine, 2020](https://www.cpomagazine.com/tech/best-practices-for-authentication-and-authorization/)
