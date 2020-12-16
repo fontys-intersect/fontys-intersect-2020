@@ -2,10 +2,10 @@
 
 An in-depth page about the Input Validation. In this page, it will be explained how it works and how it could be implemented.
 
-### Table of Contents
+## Table of Contents
 
 - [Explanation](#explanation)
-- [Uses](#usage)
+- [Usage](#usage)
 - [Flaws](#flaws)
 - [Cases](#cases)
 - [Bibliography](#bibliography)
@@ -17,10 +17,13 @@ Input validation is making sure that what you enter in a text field is what you'
 ## Usage
 
 **Taking Advantage**
-Input validation, on both frontend and the backend, is important. If the program expects a certain value or string, it should get that value or string. If it gets something unexpected, and it's handled incorrectly, the program or website could crash. Hackers might also take advantage of bad input validation, like entering negative values in a money transfer, effectively giving themselves the money. It is also useful to avoid a textbox-based attack, like SQL-injection and cross-site scripting (XSS).
+Input validation, on both the frontend and the backend, is important. If the program expects a certain value or string, it should get that value or string. If it gets something unexpected, and it's handled incorrectly, the program or website could crash. Hackers might also take advantage of bad input validation, like entering negative values in a money transfer, effectively giving themselves the money. It is also useful to avoid a textbox-based attack, like SQL-injection and cross-site scripting (XSS).
 
 **Checks**
-There are several ways to validate inputs. Minimum and maximum range checks, type converters, and regex are some ways to do so. Some frameworks have it built-in, like Django or Angular. There are also JSON or XML schemas to check inputs against.
+There are several ways to validate inputs. Minimum and maximum range checks, type converters, and regex are some ways to do so. Some frameworks have it built-in, like Django or Angular. There are also JSON or XML schemas to check inputs against. Besides text input validation other inputs such as files should also be checked. This can be done by limiting the accepted file types. According to Nist input validation errors should be reviewed and resolved within a predefined time period.
+
+**Manual override**
+Nist recommends to add manual override capabilities for input validation. The access to this override should be restricted to only be accessible to organization-defined authorized individuals. "In certain situations, such as during events that are defined in contingency plans, a manual override capability for input validation may be needed"(Nist, 2020) the use of the manual override should be limited.
 
 ## Flaws
 
@@ -37,3 +40,4 @@ An attacker can omit certain parameters when making new users, sensors or locati
 ## Bibliography
 
 - [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
+- Nist. (2020, 10 december). Security and Privacy Controls for Information Systems and Organizations. https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf
