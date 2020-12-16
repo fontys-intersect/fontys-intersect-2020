@@ -4,11 +4,13 @@ Every users input should be properly validated, to make sure that nothing malico
 
 ## Table of Contents
 
-- [Explanation](#explanation)
-- [Usage](#usage)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
+- [Input Validation](#input-validation)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Usage](#usage)
+  - [Flaws](#flaws)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -43,4 +45,4 @@ An attacker can omit certain parameters when making new users, sensors or locati
 ## Bibliography
 
 - [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
-- [Nist (2020, 10 december). Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)
+- [Security and Privacy Controls for Information Systems and Organizations, Nist, December 10 2020.](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)

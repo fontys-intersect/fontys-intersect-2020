@@ -4,11 +4,13 @@ During the development and usage of systems, secrets are used to communicate wit
 
 ## Table of Contents
 
-- [Explanation](#explanation)
-- [Usage](#usage)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
+- [Secret Management](#secret-management)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Usage](#usage)
+  - [Flaws](#flaws)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -30,4 +32,4 @@ There is one case reported from the penetration tests related to this security i
 
 ## Bibliography
 [Ekransystem: Secret management blogpost, November 26 2019](https://www.ekransystem.com/en/blog/secrets-management)
-[Secret Management](https://www.cyberark.com/what-is/secrets-management/)
+[Secret Management, Date: n.d.](https://www.cyberark.com/what-is/secrets-management/)

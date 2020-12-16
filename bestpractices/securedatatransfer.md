@@ -4,11 +4,13 @@ When communicating with other systems, you don't want anyone to listen in on wha
 
 ## Table of Contents
 
-- [Explanation](#explanation)
-- [Usage](#usage)
-- [Flaws](#flaws)
-- [Cases](#cases)
-- [Bibliography](#bibliography)
+- [Secure Data Transfer and Storage](#secure-data-transfer-and-storage)
+  - [Table of Contents](#table-of-contents)
+  - [Explanation](#explanation)
+  - [Usage](#usage)
+  - [Flaws](#flaws)
+  - [Cases](#cases)
+  - [Bibliography](#bibliography)
 
 ## Explanation
 
