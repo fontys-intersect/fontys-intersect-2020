@@ -42,8 +42,8 @@ Not Applicable.
 
 ## Bibliography
 
-- [Nist](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf)
-- [Owasp](https://owasp.org/www-project-top-ten/2017/A10_2017-Insufficient_Logging%2526Monitoring)
-- [Logging tools](https://stackify.com/best-log-management-tools/)
-- [Logging frameworks commparison](https://stackify.com/nlog-vs-log4net-vs-serilog/)
-- [General logging standards](https://www.dnsstuff.com/logging-monitoring-best-practices)
+- [Nist, 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf)
+- [Owasp, 2017](https://owasp.org/www-project-top-ten/2017/A10_2017-Insufficient_Logging%2526Monitoring)
+- [Logging tools, May 26 2017](https://stackify.com/best-log-management-tools/)
+- [Logging frameworks commparison, August 27 2018](https://stackify.com/nlog-vs-log4net-vs-serilog/)
+- [General logging standards, October 27 2020](https://www.dnsstuff.com/logging-monitoring-best-practices)

@@ -29,5 +29,5 @@ Even if the secrets are stored in a safe place, they must be still accessible. T
 There is one case reported from the penetration tests related to this security issue: There where hardcoded credentials in an XML file in the airquality project.
 
 ## Bibliography
-[Ekransystem: Secret management blogpost](https://www.ekransystem.com/en/blog/secrets-management)
+[Ekransystem: Secret management blogpost, November 26 2019](https://www.ekransystem.com/en/blog/secrets-management)
 [Secret Management](https://www.cyberark.com/what-is/secrets-management/)

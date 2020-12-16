@@ -49,5 +49,5 @@ The Smartscreen had problems with their certificates. The update server no SSL.
 ## Bibliography
 
 - [DigiNotar](https://en.wikipedia.org/wiki/DigiNotar)
-- [Darknet Diaries, The Weakest Link](https://darknetdiaries.com/episode/3/)
-- [Security Certificate](https://www.thesslstore.com/blog/what-is-a-website-security-certificate-and-what-does-it-do-for-your-business/)
+- [Darknet Diaries: The Weakest Link, 2017](https://darknetdiaries.com/episode/3/)
+- [Security Certificate, 2019](https://www.thesslstore.com/blog/what-is-a-website-security-certificate-and-what-does-it-do-for-your-business/)

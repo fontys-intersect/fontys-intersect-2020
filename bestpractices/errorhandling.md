@@ -16,7 +16,7 @@ Error handling is important for running a smooth application. It is used in any 
 
 ## Usage
 
-If anything unexpected happens, either on the client-side or the server-side, the error will be caught and handled internally. The user will see a basic message what might have gone wrong without giving out too much information. If there are any unhandled errors and the website crashes or not work as intended. A good rule of thumb is that if it is a client-side error show as much information as possible and if it is a server-side error, leak as little information as possible, as recommended by the [IOT Security Foundation Guidelines](https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf).
+If anything unexpected happens, either on the client-side or the server-side, the error will be caught and handled internally. The user will see a basic message what might have gone wrong without giving out too much information. If there are any unhandled errors and the website crashes or not work as intended. A good rule of thumb is that if it is a client-side error show as much information as possible and if it is a server-side error, leak as little information as possible, as recommended by the [IOT Security Foundation Guidelines, 2019](https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf).
 
 ## Flaws
 
@@ -42,5 +42,5 @@ Not Applicable.
 
 ## Bibliography
 
-- [IOT Security Foundation Guidelines](https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf)
+- [IOT Security Foundation Guidelines, 2019](https://www.iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf)
 - [Owasp Error Handling](https://owasp.org/www-community/Improper_Error_Handling)
