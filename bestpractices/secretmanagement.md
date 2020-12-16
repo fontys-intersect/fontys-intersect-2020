@@ -4,13 +4,11 @@ During the development and usage of systems, secrets are used to communicate wit
 
 ## Table of Contents
 
-- [Secret Management](#secret-management)
-  - [Table of Contents](#table-of-contents)
-  - [Explanation](#explanation)
-  - [Usage](#usage)
-  - [Flaws](#flaws)
-  - [Cases](#cases)
-  - [Bibliography](#bibliography)
+- [Explanation](#explanation)
+- [Usage](#usage)
+- [Flaws](#flaws)
+- [Cases](#cases)
+- [Bibliography](#bibliography)
 
 ## Explanation
 

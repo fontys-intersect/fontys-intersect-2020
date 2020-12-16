@@ -1,16 +1,14 @@
 # Regular and Secure Version Updates
 
-An in-depth page about the Version Updates. In this page, it will be explained how it works and how it could be fixed.
+Systems are updated regulary, but these updates can pose a security risk if not done properly.
 
 ## Table of Contents
 
-- [Regular and Secure Version Updates](#regular-and-secure-version-updates)
-  - [Table of Contents](#table-of-contents)
-  - [Explanation](#explanation)
-  - [Flaws](#flaws)
-  - [Cases](#cases)
-  - [Bibliography](#bibliography)
-  - [Appendix](#appendix)
+- [Explanation](#explanation)
+- [Flaws](#flaws)
+- [Cases](#cases)
+- [Bibliography](#bibliography)
+- [Appendix](#appendix)
 
 ## Explanation
 
@@ -21,7 +19,7 @@ The update itself should be done securely so the system should check if it is pe
 
 ## Flaws
 
-When a device is supporting update functionality, it expands the attack surface. If the update is not verified and secured, the system can be taken over or damaged by a malicous software update.
+When a device is supporting update functionality, it expands the attack surface. If the update is not verified and secured, the system can be taken over or damaged by a malicious software update.
 
 ## Cases
 

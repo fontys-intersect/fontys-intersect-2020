@@ -4,8 +4,6 @@ When developing a system, the developers use tools to make it easier. These tool
 
 ## Table of Contents
 
-- [Split Development and Production Environments](#split-development-and-production-environments)
-- [Table of Contents](#table-of-contents)
 - [Explanation](#explanation)
 - [Uses](#uses)
 - [Flaws](#flaws)
