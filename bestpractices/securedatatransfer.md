@@ -4,13 +4,11 @@ When communicating with other systems, you don't want anyone to listen in on wha
 
 ## Table of Contents
 
-- [Secure Data Transfer and Storage](#secure-data-transfer-and-storage)
-  - [Table of Contents](#table-of-contents)
-  - [Explanation](#explanation)
-  - [Usage](#usage)
-  - [Flaws](#flaws)
-  - [Cases](#cases)
-  - [Bibliography](#bibliography)
+- [Explanation](#explanation)
+- [Usage](#usage)
+- [Flaws](#flaws)
+- [Cases](#cases)
+- [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -37,5 +35,6 @@ There was a distinct lack of encryption of any kind on the air quality project, 
 The smart screen also lacked encryption were needed, the update system. This allowed an attacker to spoof a malicious update.
 
 ## Bibliography
-[Allan, M (2020, June 22). 6 types of encryption that you must know about. GoodCore Blog.](https://www.goodcore.co.uk/blog/types-of-encryption/)
-[August 2019, NIST Guidelines for Selection, Configuration and Use of TLS](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-52r2.pdf)
+
+- Allan, M. (2020, June 22). 6 Types of Encryption That You Must Know About. GoodCore Blog. <https://www.goodcore.co.uk/blog/types-of-encryption/>
+- McKay, K. A., & Cooper, D. A. (2019, August). Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations. NIST. <https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-52r2.pdf>
