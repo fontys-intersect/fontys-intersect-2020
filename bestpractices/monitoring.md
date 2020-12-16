@@ -24,10 +24,12 @@ When you monitor your application, you will know what is happening and how users
 
 It's important to finetune the monitoring system; overreporting can be just as dangerous as underreporting. If you see every single click someone is making, you won't be able to tell when something is coming from a hacker through the slew of warnings and mentions you'll be getting. This can be called false positives, the application thinks something is wrong when there is no problem. The other issue is false negatives, where the application thinks that everything is right, while damage is being done. It is important to fine-tune your logging, luckily there are a lot of frameworks and guidelines on implementing logging and monitoring.
 
+In the bibliography there will be multiple sources on how to properly implement logging and monitoring. While NIST goes more in-depth, Owasp is more readable and comprehensive. 
+
 ## Cases
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
- 
+
 Not Applicable.
 
 - [Airquality](cases/airquality#Vulnerabilities)
@@ -40,8 +42,8 @@ Not Applicable.
 
 ## Bibliography
 
+- [Nist](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf)
 - [Owasp](https://owasp.org/www-project-top-ten/2017/A10_2017-Insufficient_Logging%2526Monitoring)
 - [Logging tools](https://stackify.com/best-log-management-tools/)
 - [Logging frameworks commparison](https://stackify.com/nlog-vs-log4net-vs-serilog/)
 - [General logging standards](https://www.dnsstuff.com/logging-monitoring-best-practices)
-

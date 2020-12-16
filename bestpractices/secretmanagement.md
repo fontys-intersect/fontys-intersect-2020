@@ -1,6 +1,6 @@
 # Secret Management
 
-An in-depth page about Secret management. On this page, it will be explained how it works and how it could be fixed. 
+During the development and usage of systems, secrets are used to communicate with other systems. These secrets must remain secrets, or they could be abused by attackers
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ All the secrets including the private keys used for encryption should be stored 
 
 ## Usage
 
-Secrets such as private keys, credentials and configuration files should not be leaked, since they can be abused very easily. That is why all these secrets need to be stored in one central system, such as a vault or a secret manager, they need to be stored encrypted at the very minimum. This makes sure that only the system with permission can access the secrets. It can even be argued that not all developers need access to the secrets, to minimize the chance of the secrets leaking.
+Secrets such as private keys, credentials and configuration files should not be leaked, since they can be abused very easily. That is why all these secrets need to be stored in one central system, such as a vault or a secret manager, they need to be stored [encrypted](https://www.ekransystem.com/en/blog/secrets-management) at the very minimum. This makes sure that only the system with permission can access the secrets. It can even be argued that not all developers need access to the secrets, to minimize the chance of the secrets leaking.
 
 ## Flaws
 
@@ -28,9 +28,8 @@ Even if the secrets are stored in a safe place, they must be still accessible. T
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-There is one case reported from the penetration tests related to this security issue.
-There were hardcoded credentials in an XML file in the airquality project.
+There is one case reported from the penetration tests related to this security issue: There where hardcoded credentials in an XML file in the airquality project.
 
 ## Bibliography
-
+[Ekransystem: Secret management blogpost](https://www.ekransystem.com/en/blog/secrets-management)
 [Secret Management](https://www.cyberark.com/what-is/secrets-management/)
