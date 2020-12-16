@@ -29,7 +29,7 @@ In the bibliography there will be multiple sources on how to properly implement 
 ## Cases
 
 - [Smartscreen](cases/smartscreen#Vulnerabilities)
- 
+
 Not Applicable.
 
 - [Airquality](cases/airquality#Vulnerabilities)
@@ -47,4 +47,3 @@ Not Applicable.
 - [Logging tools](https://stackify.com/best-log-management-tools/)
 - [Logging frameworks commparison](https://stackify.com/nlog-vs-log4net-vs-serilog/)
 - [General logging standards](https://www.dnsstuff.com/logging-monitoring-best-practices)
-

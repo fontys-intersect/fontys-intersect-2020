@@ -1,16 +1,14 @@
 # Secret Management
 
-An in-depth page about Secret management. On this page, it will be explained how it works and how it could be fixed. 
+During the development and usage of systems, secrets are used to communicate with other systems. These secrets must remain secrets, or they could be abused by attackers
 
 ## Table of Contents
 
-- [Secret Management](#secret-management)
-  - [Table of Contents](#table-of-contents)
-  - [Explanation](#explanation)
-  - [Usage](#usage)
-  - [Flaws](#flaws)
-  - [Cases](#cases)
-  - [Bibliography](#bibliography)
+- [Explanation](#explanation)
+- [Usage](#usage)
+- [Flaws](#flaws)
+- [Cases](#cases)
+- [Bibliography](#bibliography)
 
 ## Explanation
 
@@ -28,8 +26,7 @@ Even if the secrets are stored in a safe place, they must be still accessible. T
 
 - [Airquality](cases/airquality#Vulnerabilities)
 
-There is one case reported from the penetration tests related to this security issue.
-There were hardcoded credentials in an XML file in the airquality project.
+There is one case reported from the penetration tests related to this security issue: There where hardcoded credentials in an XML file in the airquality project.
 
 ## Bibliography
 [Ekransystem: Secret management blogpost](https://www.ekransystem.com/en/blog/secrets-management)
