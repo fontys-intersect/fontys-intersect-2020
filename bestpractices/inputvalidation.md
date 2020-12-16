@@ -4,13 +4,11 @@ Every users input should be properly validated, to make sure that nothing malico
 
 ## Table of Contents
 
-- [Input Validation](#input-validation)
-  - [Table of Contents](#table-of-contents)
-  - [Explanation](#explanation)
-  - [Usage](#usage)
-  - [Flaws](#flaws)
-  - [Cases](#cases)
-  - [Bibliography](#bibliography)
+- [Explanation](#explanation)
+- [Usage](#usage)
+- [Flaws](#flaws)
+- [Cases](#cases)
+- [Bibliography](#bibliography)
 
 ## Explanation
 
