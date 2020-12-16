@@ -1,16 +1,17 @@
 # Airquality sensor
 
-Farms and workshops need clean air to operate their businesses. So there can be a lot of stink or debris in the air, so there should be something to clean the air with. An application, combined with those sensors could fulfill this purpose: it takes the dirty air in, scrubs it, and clean air comes out.
+Farms and workshops need clean air to operate their businesses. There can be a lot of toxins or dust in the air, this should be monitored. The Airscrubber fulfills this purpose: it monitors the quality of the air. We are asked to test the security of the application.
 
 ## Table of Contents
 
-- [Subject Explanation](#subject-explanation)
-- [Strengths](#bibliography)
-- [Vulnerabilities](#vulnerabilities)
-- [Best practices](#best-practices)
-- [Possible fixes](#possible-fixes)
-- [Bibliography](#bibliography-apa)
-- [Appendix](#appendix)
+- [Airquality sensor](#airquality-sensor)
+  - [Table of Contents](#table-of-contents)
+  - [Subject Explanation](#subject-explanation)
+  - [Strengths](#strengths)
+  - [Vulnerabilities](#vulnerabilities)
+  - [Possible Fixes](#possible-fixes)
+  - [Best practices](#best-practices)
+  - [Bibliography (APA)](#bibliography-apa)
 
 ## Subject Explanation
 
