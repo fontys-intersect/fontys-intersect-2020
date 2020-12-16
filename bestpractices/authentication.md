@@ -43,12 +43,12 @@ Lastly, don't underestimate the importance of authentication. If you forget it, 
 
 ## Cases
 
-- [Airquality](cases/airquality#Vulnerabilities)
+- [Smartwatch](cases/smartwatch#Vulnerabilities)
 
-There was a distinct lack of encryption of any encryption on the air quality project, leaving the system vulnerable.
+The smartwatches had bad authentication, the user could access and abuse certain interfaces.
 
 ## Bibliography
 
-- NIST Special Publication 800-63B. (z.d.). NIST. https://pages.nist.gov/800-63-3/sp800-63b.html
+- NIST Special Publication 800-63B. (z.d.). NIST. <https://pages.nist.gov/800-63-3/sp800-63b.html>
 
-- Authentication - OWASP Cheat Sheet Series. (z.d.). cheatsheetseries.owasp.org. https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
+- Authentication - OWASP Cheat Sheet Series. (z.d.). cheatsheetseries.owasp.org. <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html>
