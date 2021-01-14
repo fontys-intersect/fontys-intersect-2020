@@ -23,12 +23,15 @@ Then the attacker could write malware that would abuse the open methods from tho
 
 ## Strengths
 
-The SmartWatch was strong in its security, there were no other open attack vectors for us to exploits except the outdated OS it was running.
+The SmartWatch was strong in its base security, meaning that the implementation the manufacturer implemented were working correctly.
+We were unable to decipher the traffic from/to the watch and were not able to directly interact with the base functionalities like Wifi / Bluetooth.
+
+there were no other open attack vectors for us to exploits except the outdated OS it was running.
 
 ## Vulnerabilities
 
 **Outdated OS**
-The OS was outdated, this allowed unauthorized access to methods from some interfaces on the watch.
+The OS was outdated, this allowed unauthorized access to methods from some interfaces on the watch because of a lack of security implementations regarding the D-Bus structure of the watch.
 
 **Unauthorised Acces to Interfaces**
 Some interfaces on the watch did not need authorized access to be able to call their methods, therefore the attack could write malware that calls these methods to receive and change information like: contact info, screenshots of the current screen, change the Bluetooth of wifi connection and more, depending on the interface.
