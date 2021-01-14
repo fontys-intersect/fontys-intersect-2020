@@ -1,5 +1,7 @@
 # Smartscreen
 
+### *12-2020* 
+
 These days many companies and individuals use IoT devices, such as smartphones, smart doorbells or smart screens. The number of IoT devices grows significantly every year, most of these IoT devices are within businesses.
 
 The smartscreen is a system which is popular in different types of companies, because of the flexibility of those screens. Smartscreens can run custom applications but can also be connected to a laptop to give presentations. Besides data attacks on the smartscreens, attackers could try to get control over the smartscreen to get network access or to use the smartscreen for malicious plans like a botnet. A botnet is a network of connected pc’s used for group attacks. Most of the time these pc’s are infected by malware and the owner is unaware of their participation in a botnet.
