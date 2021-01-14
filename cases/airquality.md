@@ -71,4 +71,4 @@ the best practice needs to be followed. After this is done, there should be a lo
 really fixed.
 
 ## Best practices
-The best practises found in this case are [split development and production](/bestpractices/splitdevprod.md), [authentication](/bestpractices/authentication.md) [authorization](/bestpractices/authorization.md), [errorhandling](/bestpractices/errorhandling.md), [inputvalidation](/bestpractices/inputvalidation.md) and [secretmanagement](/bestpractices/secretmanagement.md)  more about these best practices can be read on their respective pages.
+The best practises found in this case are [split development and production](/bestpractices/splitdevprod), [authentication](/bestpractices/authentication) [authorization](/bestpractices/authorization), [errorhandling](/bestpractices/errorhandling), [inputvalidation](/bestpractices/inputvalidation) and [secretmanagement](/bestpractices/secretmanagement)  more about these best practices can be read on their respective pages.

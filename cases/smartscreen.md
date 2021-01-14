@@ -48,4 +48,4 @@ Both problems can be fixed quite easily. For the ADB vulnerability just make sur
 
 ## Best practices
 
-The best practises found in this case are [split development and production](/bestpractices/splitdevprod.md), [certificates](/bestpractices/certificates.md), [versionupdate](/bestpractices/versionupdate.md) and [secure data transfer](/bestpractices/securedatatransfer.md) more about these best practices can be read on their respective pages.
+The best practises found in this case are [split development and production](/bestpractices/splitdevprod), [certificates](/bestpractices/certificates), [versionupdate](/bestpractices/versionupdate) and [secure data transfer](/bestpractices/securedatatransfer) more about these best practices can be read on their respective pages.
