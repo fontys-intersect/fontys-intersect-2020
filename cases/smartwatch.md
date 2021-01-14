@@ -38,9 +38,9 @@ Some interfaces on the watch did not need authorized access to be able to call t
 
 ## Possible Fixes
 
-To prevent outdated software from being used the user needs to update their Watch application on their phone, and update their smartwatch.
+To prevent outdated software from being used, the user needs to update their smartwatch application on their phone, and update their smartwatch whenever possible.
 
-This is relatively easy to implement, by simply checking "the automatic update" feature.
+This is relatively easy to implement, by simply checking the "automatic update" feature in the smartwatch application and phone settings.
 
 ## Best practices
 
