@@ -39,16 +39,3 @@ besides the three best guidelines we also look into these other guidelines.
   this document focuses on two levels of a cisco proposed structure. These levels are the node and communication levels. It properly explains these levels but completely ignores other levels like the data levels and user level. Because it has a limited focus it did not make our top three.
 
   a useful tool we used is [the Enisa IOT tool](https://www.enisa.europa.eu/topics/iot-and-smart-infrastructures/iot/good-practices-for-iot-and-smart-infrastructures-tool). This tool splits the IoT world into different sections, like smart hospitals and industry 4.0. for each section, it gives sources that apply to that industry sector.
-
-## Pentest
-
-Our main research was based on pentests of real IoT devices. For the sake of privacy and security, we cannot publish the tested devices, but we can explain their type. These devices were tested:
-
-- Smartboard
-        - This is a smartboard running android, mainly used in schools and board rooms. This product is also used in practice. The smartboard can both run its programs and be connected to a laptop or pc.
-
-- Industrial air quality control system
-        - This project has a backend server, a web interface, and several connected sensors. These sensors measure several air properties, the backend processes this date and the frontend shows graphs of the measurements. this way the clients can keep an eye on the air quality.
-
-- Smartwatch(es)
-        - This device has a frontend, backend and some built-in sensors. Smartwatches are mostly used to monitor health, save time and money.
